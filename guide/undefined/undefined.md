@@ -1,0 +1,3 @@
+# 💰 경제 명령어
+
+<table><thead><tr><th width="272">명령어</th><th>설명</th></tr></thead><tbody><tr><td>/pay [닉네임] [금액]</td><td>해당 플레이어에게 [금액] 만큼 골드 송금</td></tr><tr><td>/지불 [닉네임] [금액]</td><td>​</td></tr><tr><td>/돈, /ehs</td><td>본인 소지금 확인</td></tr><tr><td>​</td><td>​</td></tr><tr><td>/trade, /거래</td><td>거래 관련 도움말을 확인합니다.</td></tr><tr><td>/trade offer [닉네임]</td><td>해당 플레이어에게 거래 제안 보내기</td></tr><tr><td>/거래 [닉네임]</td><td>​</td></tr><tr><td>/trade accept</td><td>거래 제안 수락</td></tr><tr><td>/trade deny [닉네임]</td><td>해당 플레이어에게 온 거래 제안 거절</td></tr><tr><td>/trade block [닉네임]</td><td>해당 플레이어의 거래 제안 차단</td></tr><tr><td>/trade toggle</td><td>거래 제안 받기 기능을 끄거나 켜기</td></tr></tbody></table>
