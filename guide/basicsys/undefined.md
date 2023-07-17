@@ -14,7 +14,7 @@
 
 ​
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="370"><figcaption><p>/homes, /홈 했을때 나오는 GUI창 </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="370"><figcaption><p>/homes, /홈 했을때 나오는 GUI창 </p></figcaption></figure>
 
 &#x20;                                                              아이콘 위에 커서를 대고 \
 &#x20;                                                                     <img src="../../.gitbook/assets/left_click.png" alt="" data-size="line">**홈 이동** \

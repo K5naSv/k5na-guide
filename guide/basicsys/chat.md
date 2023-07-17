@@ -22,4 +22,4 @@
 
 <table><thead><tr><th width="269">명령어</th><th>설명</th></tr></thead><tbody><tr><td>/res rc leave</td><td>부동산 채팅에서 퇴장합니다</td></tr><tr><td>/res rc setcolor [색코드] </td><td>부동산 채팅 색을 [색코드] 로 지정합니다</td></tr><tr><td>/res rc setprefix [이름]</td><td>부동산 채팅 칭호를 [이름] 으로 지정합니다</td></tr><tr><td>/res rc kick [플레이어] </td><td>부동산 채팅에서 [플레이어]를 강제퇴장 합니다.</td></tr></tbody></table>
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (1).png>)
