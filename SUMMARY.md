@@ -27,6 +27,7 @@
   * [📦 가상 시스템](guide/convfeatures/virtualsys.md)
   * [⏫ 유저 워프](guide/convfeatures/undefined.md)
   * [🛗 엘리베이터](guide/convfeatures/elevator.md)
+  * [🔘 버튼 커맨드](guide/convfeatures/undefined-1.md)
   * [🔄 블록 회전](guide/convfeatures/rotator.md)
   * [🤐 아이템 압축](guide/convfeatures/itemzip.md)
 * [✨ 주요 컨텐츠](guide/undefined-1/README.md)
