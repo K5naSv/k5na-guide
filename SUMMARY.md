@@ -74,8 +74,8 @@
 
 ## ABOUT US
 
-* [운영진 소개](about-us/undefined.md)
+* [👷 |   운영진 소개](about-us/or.md)
 
 ***
 
-* [© 저작권 표기](undefined.md)
+* [© |   저작권 표기](or.md)
