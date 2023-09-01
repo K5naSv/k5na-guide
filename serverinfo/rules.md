@@ -198,7 +198,7 @@ description: v2023.06.06
 
 되도록 안전한 곳에서 자리를 비우는 것을 추천드립니다.
 
-부동산 설정으로 부동산 내 PVP를 비활성화 할 수 있습니다. ([자세한 내용](../guide/undefined-1/residence.md))
+부동산 설정으로 부동산 내 PVP를 비활성화 할 수 있습니다. ([자세한 내용](../guide/main-contents/residence.md))
 
 
 

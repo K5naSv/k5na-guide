@@ -1,13 +1,6 @@
-# © 저작권 표기
+# © |   저작권 표기
 
 ### 리소스팩
-
-#### 직업 랜덤 상자 (일반\~영웅) 텍스쳐
-
-"[Treasure chests 32x32](https://opengameart.org/content/treasure-chests-32x32)", by [Bonsaiheldin](https://opengameart.org/users/bonsaiheldin). Available for use under the [**CC BY** 4.0](https://creativecommons.org/licenses/by/4.0/) license.\
-![](<.gitbook/assets/image (12).png>)
-
-
 
 
 

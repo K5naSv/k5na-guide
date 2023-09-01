@@ -164,7 +164,7 @@ description: v2023.06.06
 
 되도록 안전한 곳에서 자리를 비우는 것을 추천드립니다.
 
-부동산 설정으로 부동산 내 PVP를 비활성화 할 수 있습니다. ([자세한 내용](../guide/undefined-1/residence.md))
+부동산 설정으로 부동산 내 PVP를 비활성화 할 수 있습니다. ([자세한 내용](../guide/main-contents/residence.md))
 
 
 
@@ -206,7 +206,7 @@ description: v2023.06.06
 ### 테러
 
 * 유저에 의해 테러가 발생한 경우는 복구 <mark style="color:red;">불가</mark>합니다\
-  테러 방지를 위해 꼭 [부동산](../guide/undefined-1/residence.md) 구매 및 권한 설정을 진행해 주세요.
+  테러 방지를 위해 꼭 [부동산](../guide/main-contents/residence.md) 구매 및 권한 설정을 진행해 주세요.
 * 예외: 광범위한 테러일 경우 등 일부 상황에 한해 운영진의 판단에 따라 \
   해당 플레이어의 데이터 일부 또는 일체의 롤백 (되돌리기)을 진행할 수 있습니다.
 

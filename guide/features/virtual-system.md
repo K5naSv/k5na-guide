@@ -2,7 +2,7 @@
 
 <img src="../../.gitbook/assets/x (1).webp" alt="" data-size="line"> **가상 창고**
 
-> 최대 54칸 가방 ([등급](../undefined-1/undefined-2.md)에  따라  다름)
+> 최대 54칸 가방 ([등급](../main-contents/rank.md)에  따라  다름)
 >
 > 명령어: /c
 
