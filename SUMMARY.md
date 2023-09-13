@@ -1,6 +1,6 @@
 # Table of contents
 
-* [😆 웰컴!](README.md)
+* [🌱 웰컴!](README.md)
 
 ## &#x20;          서버에 처음 오셨나요? <a href="#serverinfo" id="serverinfo"></a>
 
