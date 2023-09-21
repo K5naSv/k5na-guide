@@ -1,7 +1,7 @@
 # 💁 주민거래 \[작성 중]
 
 {% hint style="info" %}
-**주민 및 떠돌이 상인과의 거래 목록이 대폭 변경되었습니다!**\
+**주민 및 떠돌이 상인의 거래 목록이 대폭 변경되었습니다!**\
 **주민 직업별 상세 목록 및 가격은 아래 내용을 확인해 주세요!**\
 \
 <mark style="color:red;">**★ 감염 치료, 마을의 영웅을 포함한 모든 할인 시스템이 적용되지 않습니다.**</mark>\ <mark style="color:red;">**★ 감염 치료를 시도할 시 거래 목록이 전부 새롭게 변경되니 이 점 주의해 주세요.**</mark>\ <mark style="color:red;">**★ 마법이 부여된 아이템은 에메랄드가 아닌 앵무조개 껍데기로 거래가 가능합니다.**</mark>
@@ -9,15 +9,21 @@
 
 
 
-## \[ 1 ] 마법이 부여된 아이템 가격
-
-<table><thead><tr><th width="188" align="center">레벨</th><th align="center">요구 아이템</th></tr></thead><tbody><tr><td align="center">Ⅰ </td><td align="center"><img src="../../.gitbook/assets/16px_nautilus_shell.png" alt="" data-size="original">1-3 중 랜덤</td></tr><tr><td align="center">Ⅱ</td><td align="center"><img src="../../.gitbook/assets/16px_nautilus_shell.png" alt="" data-size="original">4-6 중 랜덤</td></tr><tr><td align="center">Ⅲ</td><td align="center"><img src="../../.gitbook/assets/16px_nautilus_shell.png" alt="" data-size="original">7-9 중 랜덤</td></tr><tr><td align="center">Ⅳ</td><td align="center"><img src="../../.gitbook/assets/16px_nautilus_shell.png" alt="" data-size="original">10-12 중 랜덤</td></tr><tr><td align="center">Ⅴ</td><td align="center"><img src="../../.gitbook/assets/16px_nautilus_shell.png" alt="" data-size="original">13-15 중 랜덤</td></tr></tbody></table>
-
-
-
-## \[ 2 ] 주민 직업별 거래 목록
+## \[ 1 ] 떠돌이 상인 및 주민 직업별 거래 목록
 
 {% tabs %}
+{% tab title="0" %}
+## 떠돌이 상인
+
+{% hint style="info" %}
+**수선책 거래는 사서 주민이 아닌 떠돌이 상인한테서 가능합니다!**
+{% endhint %}
+
+<table><thead><tr><th width="282" align="center">아이템 (확률)</th><th width="318" align="center">요구 아이템</th><th align="center">재고</th></tr></thead><tbody><tr><td align="center"><img src="../../.gitbook/assets/16px_enchanted_book.png" alt="" data-size="original">수선책 1개 (25%)</td><td align="center"><img src="../../.gitbook/assets/16px_nautilus_shell.png" alt="" data-size="original">앵무조개 껍데기 25  + <img src="../../.gitbook/assets/16px_book.png" alt="" data-size="original">책</td><td align="center">1</td></tr><tr><td align="center"><img src="../../.gitbook/assets/16px_experience_bottle.png" alt="" data-size="original">경험치병 5개 (75%)</td><td align="center"><img src="../../.gitbook/assets/16px_nautilus_shell.png" alt="" data-size="original">앵무조개 껍데기 1</td><td align="center">5</td></tr><tr><td align="center"><img src="../../.gitbook/assets/16px_tropical_fish_bucket.png" alt="" data-size="original">열대어가 담긴 양동이 (100%)</td><td align="center"><img src="../../.gitbook/assets/16px_emerald_block.png" alt="" data-size="original">에메랄드 블록 21</td><td align="center">5</td></tr></tbody></table>
+
+**그 외 다수**
+{% endtab %}
+
 {% tab title="1" %}
 ## <img src="../../.gitbook/assets/villager_librarian.png" alt="" data-size="original"> 사서
 
@@ -100,4 +106,10 @@
 <table data-full-width="false"><thead><tr><th width="96" align="center">등급</th><th width="283" align="center">요구 아이템</th><th width="242" align="center">획득 아이템</th><th align="center">재고</th></tr></thead><tbody><tr><td align="center">초심자</td><td align="center"><img src="../../.gitbook/assets/16px_rotten_flesh.png" alt="" data-size="original">썩은 살점 20<br><img src="../../.gitbook/assets/16px_emerald.png" alt="" data-size="original">에메랄드 10</td><td align="center"><img src="../../.gitbook/assets/16px_emerald.png" alt="" data-size="original">에메랄드 2<br><img src="../../.gitbook/assets/16px_redstone.png" alt="" data-size="original">레드스톤 가루 1</td><td align="center">16<br>12</td></tr><tr><td align="center">수습생</td><td align="center"><img src="../../.gitbook/assets/16px_gold_ingot.png" alt="" data-size="original">금 주괴 2<br><img src="../../.gitbook/assets/16px_emerald.png" alt="" data-size="original">에메랄드 10</td><td align="center"><img src="../../.gitbook/assets/16px_emerald.png" alt="" data-size="original">에메랄드 8<br><img src="../../.gitbook/assets/16px_lapis_lazuli.png" alt="" data-size="original">청금석 1</td><td align="center">5<br>12</td></tr><tr><td align="center">기능공</td><td align="center"><img src="../../.gitbook/assets/16px_rabbit_foot.png" alt="" data-size="original">토끼발 1<br><img src="../../.gitbook/assets/16px_emerald.png" alt="" data-size="original">에메랄드 2</td><td align="center"><img src="../../.gitbook/assets/16px_emerald.png" alt="" data-size="original">에메랄드 3<br><img src="../../.gitbook/assets/16px_glowstone.png" alt="" data-size="original">발광석 1</td><td align="center">12<br>12</td></tr><tr><td align="center">전문가</td><td align="center"><img src="../../.gitbook/assets/16px_scute.png" alt="" data-size="original">인갑 4<br><img src="../../.gitbook/assets/16px_glass_bottle.png" alt="" data-size="original">유리병 15<br><img src="../../.gitbook/assets/16px_emerald.png" alt="" data-size="original">에메랄드 3</td><td align="center"><img src="../../.gitbook/assets/16px_emerald.png" alt="" data-size="original">에메랄드 1<br><img src="../../.gitbook/assets/16px_emerald.png" alt="" data-size="original">에메랄드 1<br><img src="../../.gitbook/assets/16px_ender_pearl.png" alt="" data-size="original">엔더 진주 1</td><td align="center">12<br>12<br>12</td></tr><tr><td align="center">달인</td><td align="center"><img src="../../.gitbook/assets/16px_nether_wart.png" alt="" data-size="original">네더 사마귀 50<br><mark style="color:red;"><strong>[거래불가]</strong></mark> <img src="../../.gitbook/assets/16px_nautilus_shell.png" alt="" data-size="original"><del><em>앵무조개 껍데기 1</em></del></td><td align="center"><img src="../../.gitbook/assets/16px_emerald.png" alt="" data-size="original">에메랄드 5<br><mark style="color:red;"><strong>[거래불가]</strong></mark> <img src="../../.gitbook/assets/16px_experience_bottle.png" alt="" data-size="original"><del><em>경험치 병 5</em></del></td><td align="center">12<br><mark style="color:red;"><strong>X</strong></mark></td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
+
+
+
+## \[ 2 ] 마법이 부여된 아이템 가격
+
+<table><thead><tr><th width="188" align="center">레벨</th><th align="center">요구 아이템</th></tr></thead><tbody><tr><td align="center">Ⅰ </td><td align="center"><img src="../../.gitbook/assets/16px_nautilus_shell.png" alt="" data-size="original">1-3 중 랜덤</td></tr><tr><td align="center">Ⅱ</td><td align="center"><img src="../../.gitbook/assets/16px_nautilus_shell.png" alt="" data-size="original">4-6 중 랜덤</td></tr><tr><td align="center">Ⅲ</td><td align="center"><img src="../../.gitbook/assets/16px_nautilus_shell.png" alt="" data-size="original">7-9 중 랜덤</td></tr><tr><td align="center">Ⅳ</td><td align="center"><img src="../../.gitbook/assets/16px_nautilus_shell.png" alt="" data-size="original">10-12 중 랜덤</td></tr><tr><td align="center">Ⅴ</td><td align="center"><img src="../../.gitbook/assets/16px_nautilus_shell.png" alt="" data-size="original">13-15 중 랜덤</td></tr></tbody></table>
 
