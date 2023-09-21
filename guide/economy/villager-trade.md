@@ -1,17 +1,17 @@
 # 💁 주민거래 \[작성 중]
 
 {% hint style="info" %}
-ㅋ\
-**주민 직업별 거래 목록과 상세 가격은 아래 내용을 확인해 주세요!**\
+**주민거래 시스템이 대폭 변경되었습니다!**\
+**주민 직업별 상세 목록 및 가격은 아래 내용을 확인해 주세요!**\
 \
-<mark style="color:red;">**※ 코나서버에서는 주민거래와 관련된 모든 할인 시스템이 적용되지 않습니다! ※**</mark>\ <mark style="color:red;">**※ 마법이 부여된 아이템은 에메랄드가 아닌 앵무조개 껍데기로 거래가 가능합니다! ※**</mark>
+<mark style="color:red;">**★ 주민과 관련된 모든 할인 시스템이 적용되지 않습니다!**</mark>\ <mark style="color:red;">**★ 마법이 부여된 아이템은 에메랄드가 아닌 앵무조개 껍데기로 거래가 가능합니다!**</mark>
 {% endhint %}
 
 
 
 ## \[ 1 ] 마법이 부여된 아이템 가격
 
-<table><thead><tr><th width="133.66666666666666" align="center">레벨</th><th width="473" align="center">앵무조개 껍데기</th><th align="center">책</th></tr></thead><tbody><tr><td align="center">Ⅰ </td><td align="center"><img src="../../.gitbook/assets/16px_nautilus_shell.png" alt="" data-size="original">1-3 중 랜덤</td><td align="center"><img src="../../.gitbook/assets/16px_book.png" alt="" data-size="original"> x 1</td></tr><tr><td align="center">Ⅱ</td><td align="center"><img src="../../.gitbook/assets/16px_nautilus_shell.png" alt="" data-size="original">4-6 중 랜덤</td><td align="center"><img src="../../.gitbook/assets/16px_book.png" alt="" data-size="original"> x 1</td></tr><tr><td align="center">Ⅲ</td><td align="center"><img src="../../.gitbook/assets/16px_nautilus_shell.png" alt="" data-size="original">7-9 중 랜덤</td><td align="center"><img src="../../.gitbook/assets/16px_book.png" alt="" data-size="original"> x 1</td></tr><tr><td align="center">Ⅳ</td><td align="center"><img src="../../.gitbook/assets/16px_nautilus_shell.png" alt="" data-size="original">10-12 중 랜덤</td><td align="center"><img src="../../.gitbook/assets/16px_book.png" alt="" data-size="original"> x 1</td></tr><tr><td align="center">Ⅴ</td><td align="center"><img src="../../.gitbook/assets/16px_nautilus_shell.png" alt="" data-size="original">13-15 중 랜덤</td><td align="center"><img src="../../.gitbook/assets/16px_book.png" alt="" data-size="original"> x 1</td></tr></tbody></table>
+<table><thead><tr><th width="188" align="center">레벨</th><th align="center">요구되는 아이템</th></tr></thead><tbody><tr><td align="center">Ⅰ </td><td align="center"><img src="../../.gitbook/assets/16px_nautilus_shell.png" alt="" data-size="original">1-3 중 랜덤</td></tr><tr><td align="center">Ⅱ</td><td align="center"><img src="../../.gitbook/assets/16px_nautilus_shell.png" alt="" data-size="original">4-6 중 랜덤</td></tr><tr><td align="center">Ⅲ</td><td align="center"><img src="../../.gitbook/assets/16px_nautilus_shell.png" alt="" data-size="original">7-9 중 랜덤</td></tr><tr><td align="center">Ⅳ</td><td align="center"><img src="../../.gitbook/assets/16px_nautilus_shell.png" alt="" data-size="original">10-12 중 랜덤</td></tr><tr><td align="center">Ⅴ</td><td align="center"><img src="../../.gitbook/assets/16px_nautilus_shell.png" alt="" data-size="original">13-15 중 랜덤</td></tr></tbody></table>
 
 
 
