@@ -20,7 +20,7 @@
 * [💸 경제](guide/economy/README.md)
   * [💰 경제 명령어](guide/economy/commands.md)
   * [💵 거래소](guide/economy/auction.md)
-  * [💁 주민거래 \[작성 중\]](guide/economy/villager-trade.md)
+  * [💁 주민거래](guide/economy/villager-trade.md)
   * [🏪 서버 상점](guide/economy/admin-shop.md)
 * [🔍 편의 기능](guide/features/README.md)
   * [🔒 물체 보호 (수정)](guide/features/chestprotect.md)
