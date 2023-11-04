@@ -71,33 +71,20 @@ description: v2023.06.06
 (단기간에 지속적으로 규정 위반 시 **최대 3배**까지 가중 처벌될 수 있습니다)
 {% endhint %}
 
-* [**단타**](#user-content-fn-1)[^1]**, 도배, 구걸**\
-  구두 경고 이후 경고 1회 \~ 3회
-* **전체채팅에다 홍보 및 광고성 채팅:** \
-  구두 경고 이후 경고 1회 \~ 3회\
-  광고 기능을 사용하지 않고 홍보 및 광고성 채팅을 전체채팅에다\
-  입력하면 처벌됩니다. /광고 명령어를 이용해 주세요.
-* **욕설, 분쟁유도, 전체채팅에서 분쟁: **<mark style="background-color:orange;">**경고 5회\~7회**</mark>\
-  예외1: 악의적인 목적으로 채팅하는 경우 영구밴 \
-  예외2: 채팅금지 상태에서 테러 시도 및 도배 등 반성하지 않는 경우 1차 기간밴
-* **서버 분위기 저해: **<mark style="background-color:orange;">**경고 5회\~7회**</mark>\
-  본 서버는 모든 연령대 이용 가능한 서버입니다.\
-  원활한 채팅을 위해 정치적, 종교적, 사회적, 비속어 등을 발언할 시 처벌됩니다.
-* **성적인 발언, 타인비하 (인신공격): **<mark style="background-color:orange;">**1차 기간밴\~2차 기간밴**</mark>\
-  본 서버는 모든 연령대 이용 가능한 서버입니다.\
-  원활한 채팅을 위해 성적인 발언, 타인비하를 할 시 처벌됩니다.
-* **서버와 관련된 허위사실 유포: **<mark style="background-color:orange;">**경고 5회\~10회**</mark>\
-  서버와 관련된 허위사실을 유저들에게 유포하는 경우 처벌됩니다.
-* **서버 관련 컨텐츠 전체채팅에다 유포: **<mark style="background-color:orange;">**경고 5회\~10회**</mark>\
-  이스터에그, 히든 퀘스트(영웅  퀘스트  이상) 관련  등 서버 컨텐츠 관련으로\
-  전체채팅에다 유포 및 추측성 발언을 할 시 처벌됩니다.\
-  유저의 재미 반감 방지 차원입니다.
-* **타서버와 관련된 홍보, 접속 유도: **<mark style="background-color:orange;">**1차 기간밴\~영구밴**</mark>
-* **타서버 홍보가 금지된 서버에서 코나서버를 홍보: **<mark style="background-color:orange;">**영구밴**</mark>
-* **고의적인 서버비하 및 운영진 비하: **<mark style="background-color:orange;">**1차 기간밴\~영구밴**</mark>
+{% hint style="info" %}
+본 서버는 모든 연령대 이용 가능한 서버입니다.
+{% endhint %}
+
+<table><thead><tr><th width="275">위반 사항</th><th width="163">처벌</th><th></th></tr></thead><tbody><tr><td><a data-footnote-ref href="#user-content-fn-1"><strong>단타</strong></a><strong>, 도배, 구걸</strong></td><td>구두 경고 이후 <br>뮤트 10분 ~ 1시간</td><td></td></tr><tr><td><strong>홍보 및 광고성 채팅</strong><br> <strong>(전체 채팅)</strong> </td><td>구두 경고 이후 <br>경고 1회 ~ 3회</td><td>광고 기능을 사용하지 않고 홍보 및 광고성 채팅을 전체채팅에다<br>입력하면 처벌됩니다. /광고 명령어를 이용해 주세요.</td></tr><tr><td><strong>서버 분위기 저해</strong><br><strong>(</strong>정치적, 종교적, 사회적, 비속어<br>, 분쟁유도, 전체채팅에서 분쟁)</td><td><mark style="background-color:orange;"><strong>경고 5회~7회</strong></mark></td><td>예외1: 악의적인 목적으로 채팅하는 경우 영구밴 <br>예외2: 채팅금지 상태에서 테러 시도 및 도배 등 반성하지 않는 경우 1차 기간밴</td></tr><tr><td><strong>성적인 발언, 타인비하</strong> <br><strong>(인신공격)</strong></td><td><mark style="background-color:orange;"><strong>1차 기간밴</strong></mark><br><mark style="background-color:orange;"><strong>~2차 기간밴</strong></mark></td><td></td></tr><tr><td><strong>서버와 관련된 허위사실 유포</strong></td><td><mark style="background-color:orange;"><strong>경고 5회~10회</strong></mark></td><td></td></tr><tr><td><strong>서버 히든 컨텐츠 유포</strong></td><td><mark style="background-color:orange;"><strong>경고 5회~10회</strong></mark></td><td>이스터에그, 히든 퀘스트(영웅  퀘스트  이상) 관련  등 서버 컨텐츠 관련으로<br>전체채팅에다 유포 및 추측성 발언을 할 시 처벌됩니다.<br>유저의 재미 반감 방지 차원입니다.</td></tr><tr><td><strong>타서버 홍보, 접속 유도</strong></td><td><mark style="background-color:orange;"><strong>1차 기간밴</strong></mark><br><mark style="background-color:orange;"><strong>~영구밴</strong></mark></td><td></td></tr><tr><td><strong>타서버 홍보가 금지된 서버에서 코나서버를 홍보</strong></td><td> <mark style="background-color:orange;"><strong>영구밴</strong></mark></td><td></td></tr><tr><td><strong>서버비하 및 운영진 비하</strong></td><td> <mark style="background-color:orange;"><strong>1차 기간밴</strong></mark><br><mark style="background-color:orange;"><strong>~영구밴</strong></mark></td><td></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="플레이 규칙" %}
+{% hint style="warning" %}
+서버 규정 상의 처벌 수위와 절차에도 불구하고 각 사안의 상황에 따라\
+운영진의 재량으로 처벌 수위와 절차를 임의로 조정할 수 있습니다.\
+(단기간에 지속적으로 규정 위반 시 **최대 3배**까지 가중 처벌될 수 있습니다)
+{% endhint %}
+
 #### 테러 (타인 건축물 훼손)
 
 1차 기간밴(5일) \~ 영구밴
@@ -105,8 +92,6 @@ description: v2023.06.06
 #### 아이템 절도 (약탈)
 
 <mark style="background-color:orange;">**1차 기간밴\~3차 기간밴 + 아이템 회수**</mark>
-
-
 
 
 
