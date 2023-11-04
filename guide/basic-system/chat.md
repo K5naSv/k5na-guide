@@ -6,7 +6,7 @@
 
 
 
-## 🏠 부동산 채팅
+## 🏠 부동산 채팅 <a href="#reschat" id="reschat"></a>
 
 {% hint style="info" %}
 #### 부동산 내에서 <mark style="color:green;">**/rc**</mark> 또는 <mark style="color:green;">/res rc \[부동산]</mark> 으로 해당 부동산 채팅에 입장할 수 있습니다.

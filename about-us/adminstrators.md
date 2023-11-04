@@ -25,7 +25,7 @@
 
 #### 운영 도우미 목록
 
-<table data-header-hidden><thead><tr><th width="100" align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><img src="../.gitbook/assets/image (1).png" alt="" data-size="line"></td><td><img src="../.gitbook/assets/helper.png" alt="" data-size="original"> noo_min24 </td></tr><tr><td align="center"></td><td><img src="../.gitbook/assets/helper.png" alt="" data-size="original"> 공석입니다.</td></tr><tr><td align="center"></td><td><img src="../.gitbook/assets/helper.png" alt="" data-size="original"> 공석입니다.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="100" align="center"></th><th></th></tr></thead><tbody><tr><td align="center"><img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line"></td><td><img src="../.gitbook/assets/helper.png" alt="" data-size="original"> noo_min24 </td></tr><tr><td align="center"></td><td><img src="../.gitbook/assets/helper.png" alt="" data-size="original"> 공석입니다.</td></tr><tr><td align="center"></td><td><img src="../.gitbook/assets/helper.png" alt="" data-size="original"> 공석입니다.</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="🍀 가이드" %}

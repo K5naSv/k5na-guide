@@ -65,17 +65,12 @@ description: v2023.06.06
 
 {% tabs %}
 {% tab title="💬채팅 규칙" %}
-{% hint style="warning" %}
-서버 규정 상의 처벌 수위와 절차에도 불구하고 각 사안의 상황에 따라\
-운영진의 재량으로 처벌 수위와 절차를 임의로 조정할 수 있습니다.\
-(단기간에 지속적으로 규정 위반 시 **최대 3배**까지 가중 처벌될 수 있습니다)
-{% endhint %}
-
 {% hint style="info" %}
-본 서버는 모든 연령대 이용 가능한 서버입니다.
+본 서버는 모든 연령대 이용 가능한 서버입니다.\
+쾌적한 커뮤니티를 위해 채팅 규칙을 지켜주시기 바랍니다.
 {% endhint %}
 
-<table><thead><tr><th width="275">위반 사항</th><th width="163">처벌</th><th></th></tr></thead><tbody><tr><td><a data-footnote-ref href="#user-content-fn-1"><strong>단타</strong></a><strong>, 도배, 구걸</strong></td><td>구두 경고 이후 <br>뮤트 10분 ~ 1시간</td><td></td></tr><tr><td><strong>홍보 및 광고성 채팅</strong><br> <strong>(전체 채팅)</strong> </td><td>구두 경고 이후 <br>경고 1회 ~ 3회</td><td>광고 기능을 사용하지 않고 홍보 및 광고성 채팅을 전체채팅에다<br>입력하면 처벌됩니다. /광고 명령어를 이용해 주세요.</td></tr><tr><td><strong>서버 분위기 저해</strong><br><strong>(</strong>정치적, 종교적, 사회적, 비속어<br>, 분쟁유도, 전체채팅에서 분쟁)</td><td><mark style="background-color:orange;"><strong>경고 5회~7회</strong></mark></td><td>예외1: 악의적인 목적으로 채팅하는 경우 영구밴 <br>예외2: 채팅금지 상태에서 테러 시도 및 도배 등 반성하지 않는 경우 1차 기간밴</td></tr><tr><td><strong>성적인 발언, 타인비하</strong> <br><strong>(인신공격)</strong></td><td><mark style="background-color:orange;"><strong>1차 기간밴</strong></mark><br><mark style="background-color:orange;"><strong>~2차 기간밴</strong></mark></td><td></td></tr><tr><td><strong>서버와 관련된 허위사실 유포</strong></td><td><mark style="background-color:orange;"><strong>경고 5회~10회</strong></mark></td><td></td></tr><tr><td><strong>서버 히든 컨텐츠 유포</strong></td><td><mark style="background-color:orange;"><strong>경고 5회~10회</strong></mark></td><td>이스터에그, 히든 퀘스트(영웅  퀘스트  이상) 관련  등 서버 컨텐츠 관련으로<br>전체채팅에다 유포 및 추측성 발언을 할 시 처벌됩니다.<br>유저의 재미 반감 방지 차원입니다.</td></tr><tr><td><strong>타서버 홍보, 접속 유도</strong></td><td><mark style="background-color:orange;"><strong>1차 기간밴</strong></mark><br><mark style="background-color:orange;"><strong>~영구밴</strong></mark></td><td></td></tr><tr><td><strong>타서버 홍보가 금지된 서버에서 코나서버를 홍보</strong></td><td> <mark style="background-color:orange;"><strong>영구밴</strong></mark></td><td></td></tr><tr><td><strong>서버비하 및 운영진 비하</strong></td><td> <mark style="background-color:orange;"><strong>1차 기간밴</strong></mark><br><mark style="background-color:orange;"><strong>~영구밴</strong></mark></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="275">위반 사항</th><th width="163">처벌</th><th></th></tr></thead><tbody><tr><td><a data-footnote-ref href="#user-content-fn-1"><strong>단타</strong></a><strong>, 도배, 구걸</strong></td><td>구두 경고 이후 <br>뮤트 10분 ~ 1시간</td><td></td></tr><tr><td><strong>홍보 및 광고성 채팅</strong><br> <strong>(전체 채팅)</strong> </td><td>구두 경고 이후 <br>경고 1회 ~ 3회</td><td>광고 기능을 사용하지 않고 홍보 및 광고성 채팅을 전체채팅에다<br>입력하면 처벌됩니다. /광고 명령어를 이용해 주세요.</td></tr><tr><td><strong>서버 분위기 저해</strong><br><strong>(</strong>정치적, 종교적, 사회적, 비속어<br>, 분쟁유도, 전체채팅에서 분쟁)</td><td><mark style="background-color:orange;"><strong>경고 5회~7회</strong></mark></td><td>예외1: 악의적인 목적으로 채팅하는 경우 영구밴 <br>예외2: 채팅금지 상태에서 테러 시도 및 도배 등 반성하지 않는 경우 1차 기간밴</td></tr><tr><td><strong>성적인 발언, 타인비하</strong> <br><strong>(인신공격)</strong></td><td><mark style="background-color:orange;"><strong>1차 기간밴</strong></mark><br><mark style="background-color:orange;"><strong>~2차 기간밴</strong></mark></td><td></td></tr><tr><td><strong>서버와 관련된 허위사실 유포</strong></td><td><mark style="background-color:orange;"><strong>경고 5회~10회</strong></mark></td><td></td></tr><tr><td><strong>서버 히든 컨텐츠 유포</strong></td><td><mark style="background-color:orange;"><strong>경고 5회~10회</strong></mark></td><td>이스터에그, 히든 퀘스트(영웅  퀘스트  이상) 관련  등 서버 컨텐츠 관련으로<br>전체채팅에다 유포 및 추측성 발언을 할 시 처벌됩니다.<br>유저의 재미 반감 방지 차원입니다.</td></tr><tr><td><strong>타서버 홍보, 접속 유도</strong></td><td><mark style="background-color:orange;"><strong>1차 기간밴</strong></mark><br><mark style="background-color:orange;"><strong>~영구밴</strong></mark></td><td></td></tr><tr><td><strong>타서버 홍보가 금지된 서버에서 코나서버를 홍보</strong></td><td> <mark style="background-color:orange;"><strong>영구밴</strong></mark></td><td></td></tr><tr><td><strong>서버비하 및 운영진 비하</strong></td><td> <mark style="background-color:orange;"><strong>1차 기간밴</strong></mark><br><mark style="background-color:orange;"><strong>~영구밴</strong></mark></td><td></td></tr><tr><td>전체 채팅에서 지속적인 사담</td><td>구두 경고 이후<br>뮤트 5분~30분</td><td></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="플레이 규칙" %}
@@ -149,7 +144,7 @@ description: v2023.06.06
 
 되도록 안전한 곳에서 자리를 비우는 것을 추천드립니다.
 
-부동산 설정으로 부동산 내 PVP를 비활성화 할 수 있습니다. ([자세한 내용](../guide/main-contents/residence.md))
+부동산 설정으로 부동산 내 PVP를 비활성화 할 수 있습니다. ([자세한 내용](../guide/main-contents/residence/))
 
 
 
@@ -191,7 +186,7 @@ description: v2023.06.06
 ### 테러
 
 * 유저에 의해 테러가 발생한 경우는 복구 <mark style="color:red;">불가</mark>합니다\
-  테러 방지를 위해 꼭 [부동산](../guide/main-contents/residence.md) 구매 및 권한 설정을 진행해 주세요.
+  테러 방지를 위해 꼭 [부동산](../guide/main-contents/residence/) 구매 및 권한 설정을 진행해 주세요.
 * 예외: 광범위한 테러일 경우 등 일부 상황에 한해 운영진의 판단에 따라 \
   해당 플레이어의 데이터 일부 또는 일체의 롤백 (되돌리기)을 진행할 수 있습니다.
 
