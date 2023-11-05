@@ -37,3 +37,7 @@
 * **/res select shift \[amount]** – Shift selection in direction your looking.
 * **/res select vert** – expand selection from sky to bedrock
 * **/res select worldedit** – use an area defined by WorldEdit
+
+### 장기 미접속 부동산
+
+* 장기 미접속 부동산에 관련된 내용은 [여기](./#undefined-4) 를 눌려 확인해주세요

@@ -6,7 +6,6 @@
 
 * [😎 시작하기](serverinfo/beginning.md)
 * [⚖ 규칙](serverinfo/rules.md)
-* [⚖ Copy of 규칙](serverinfo/rules-1.md)
 * [❓ 자주 묻는 질문 (수정중)](serverinfo/fqa.md)
 
 ## &#x20;                   길라잡이 <a href="#guide" id="guide"></a>
@@ -34,12 +33,12 @@
   * [돈 랜덤지급](guide/features/money-swag.md)
   * [🛠 편의성 조합법](guide/features/undefined-1.md)
 * [✨ 주요 컨텐츠](guide/main-contents/README.md)
-  * [💼 직업](guide/main-contents/jobs.md)
-  * [⚔ 스킬](guide/main-contents/skills.md)
-  * [🎖 등급 / 승급](guide/main-contents/rank.md)
   * [🏠 부동산](guide/main-contents/residence/README.md)
     * [권한 및 플래그 설정 (수정중)](guide/main-contents/residence/undefined.md)
     * [서브존](guide/main-contents/residence/undefined-1.md)
+  * [💼 직업](guide/main-contents/jobs.md)
+  * [⚔ 스킬](guide/main-contents/skills.md)
+  * [🎖 등급 / 승급](guide/main-contents/rank.md)
   * [🌙 룬](guide/main-contents/rune.md)
 * [🎉 보상](guide/reward/README.md)
   * [🎁 랜덤박스](guide/reward/crates.md)
