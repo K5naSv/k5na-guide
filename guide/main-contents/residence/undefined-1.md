@@ -12,7 +12,7 @@
 
 ### 설정 방법
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="276"><figcaption><p>나무 건물을 서브존으로 지정해봅시다!</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="276"><figcaption><p>나무 건물을 서브존으로 지정해봅시다!</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
