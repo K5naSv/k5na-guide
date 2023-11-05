@@ -32,6 +32,7 @@
   * [🤐 아이템 압축](guide/features/itemzip.md)
   * [단축키](guide/features/undefined.md)
   * [돈 랜덤지급](guide/features/money-swag.md)
+  * [🛠 편의성 조합법](guide/features/undefined-1.md)
 * [✨ 주요 컨텐츠](guide/main-contents/README.md)
   * [💼 직업](guide/main-contents/jobs.md)
   * [⚔ 스킬](guide/main-contents/skills.md)
