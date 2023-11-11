@@ -5,7 +5,7 @@
 ## &#x20;          서버에 처음 오셨나요? <a href="#serverinfo" id="serverinfo"></a>
 
 * [😎 시작하기](serverinfo/beginning.md)
-* [⚖ 규칙](serverinfo/rules.md)
+* [⚖ 규칙](serverinfo/rules-1.md)
 * [❓ 자주 묻는 질문 (수정중)](serverinfo/fqa.md)
 
 ## &#x20;                   길라잡이 <a href="#guide" id="guide"></a>

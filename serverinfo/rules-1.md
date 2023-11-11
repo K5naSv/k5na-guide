@@ -164,11 +164,11 @@ description: v2023.11.05
 ### **서버 커뮤니티 분위기 저해**
 
 * 정치적, 종교적, 사회적 발언, 비속어, 분쟁유도, 분쟁, 도배 등 : \
-  타임아웃 1일 또는[ 채팅 규칙](rules.md#undefined-4)에 따른 인게임 <mark style="color:red;">처벌</mark>
+  타임아웃 1일 또는[ 채팅 규칙](rules-1.md#undefined-4)에 따른 인게임 <mark style="color:red;">처벌</mark>
 * 해킹 의심 계정의 경우에는 무조건 우선 <mark style="color:red;">차단</mark>됩니다.\
   차단 해제를 위해서는 인게임 내에서 관리자에게 문의해주시기 바랍니다.
 * 홍보(타서버, 타 커뮤니티, 방송 홍보 등)는 <mark style="color:red;">무통보 삭제 조치</mark>됩니다.\
-  또한,[ 채팅 규칙](rules.md#undefined-4)에 따라 <mark style="color:red;">처벌</mark>됩니다.
+  또한,[ 채팅 규칙](rules-1.md#undefined-4)에 따라 <mark style="color:red;">처벌</mark>됩니다.
 {% endtab %}
 
 {% tab title="데이터 보존" %}
