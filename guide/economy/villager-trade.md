@@ -7,13 +7,11 @@
 <mark style="color:red;">**★ 감염 치료, 마을의 영웅을 포함한 모든 할인 시스템이 적용되지 않습니다.**</mark>\ <mark style="color:red;">**★ 감염 치료를 시도할 시 거래 목록이 전부 새롭게 변경되니 이 점 주의해 주세요.**</mark>\ <mark style="color:red;">**★ 마법이 부여된 아이템은 에메랄드가 아닌 앵무조개 껍데기로 거래가 가능합니다.**</mark>
 {% endhint %}
 
-
-
 ## \[ 1 ] 떠돌이 상인 및 주민 직업별 거래 목록
 
 {% tabs %}
 {% tab title="0" %}
-## 떠돌이 상인
+## <img src="../../.gitbook/assets/image (34).png" alt="" data-size="line"> 떠돌이 상인
 
 {% hint style="info" %}
 **수선책 거래는 사서 주민이 아닌 떠돌이 상인한테서 가능합니다!**
