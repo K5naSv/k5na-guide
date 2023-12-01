@@ -49,8 +49,8 @@ description: v2023.11.05
 채팅, 플레이 방해 등 상황을 찍어둔 <mark style="color:blue;">**스크린샷**</mark>이나 <mark style="color:blue;">**녹화영상로**</mark>만이 증거물로 인정됩니다.\
 개인 채팅 로그 파일은 증거물로 인정되지 않습니다. (조작 가능성)
 
-※ **거래, 알바** 등과 같이 돈과 관련된 대화를 나눌 때 혹시 모를 피해를 대비하여\
-&#x20;   **F2 키**를 눌러 스크린샷을 찍어두는 것을 권장합니다.
+<mark style="color:orange;">※</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**거래, 알바**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">등과 같이 돈과 관련된 대화를 나눌 때 혹시 모를 피해를 대비하여</mark>\
+&#x20;   <mark style="color:orange;">**F2 키**</mark><mark style="color:orange;">를 눌러 스크린샷을 찍어두는 것을 권장합니다.</mark>
 {% endhint %}
 
 {% hint style="info" %}
@@ -70,7 +70,18 @@ description: v2023.11.05
 쾌적한 커뮤니티를 위해 채팅 규칙을 지켜주시기 바랍니다.
 {% endhint %}
 
-<table><thead><tr><th width="275">위반 사항</th><th width="163">처벌</th><th></th></tr></thead><tbody><tr><td><a data-footnote-ref href="#user-content-fn-1"><strong>단타</strong></a><strong>, 도배, 구걸</strong></td><td>구두 경고 이후 <br>뮤트 10분 ~ 1시간</td><td></td></tr><tr><td><strong>홍보 및 광고성 채팅</strong><br> <strong>(전체 채팅)</strong> </td><td>구두 경고 이후 <br>경고 1회 ~ 3회</td><td>광고 기능을 사용하지 않고 홍보 및 광고성 채팅을 전체채팅에다<br>입력하면 처벌됩니다. /광고 명령어를 이용해 주세요.</td></tr><tr><td><strong>서버 분위기 저해</strong><br><strong>(</strong>정치적, 종교적, 사회적, 비속어 , 분쟁유도, 전체채팅에서 분쟁)</td><td><mark style="background-color:orange;"><strong>경고 5회~7회</strong></mark></td><td>예외1: 악의적인 목적으로 채팅하는 경우 영구밴 <br>예외2: 채팅금지 상태에서 테러 시도 및 도배 등 반성하지 않는 경우 1차 기간밴</td></tr><tr><td><strong>성적인 발언, 타인비하</strong> <br><strong>(인신공격)</strong></td><td><mark style="background-color:orange;"><strong>1차 기간밴</strong></mark><br><mark style="background-color:orange;"><strong>~2차 기간밴</strong></mark></td><td></td></tr><tr><td><strong>서버와 관련된 허위사실 유포</strong></td><td><mark style="background-color:orange;"><strong>경고 5회~10회</strong></mark></td><td></td></tr><tr><td><strong>서버 히든 컨텐츠 유포</strong></td><td><mark style="background-color:orange;"><strong>경고 5회~10회</strong></mark></td><td>이스터에그, 히든 퀘스트(영웅  퀘스트  이상) 관련  등 서버 컨텐츠 관련으로<br>전체채팅에다 유포 및 추측성 발언을 할 시 처벌됩니다.<br>유저의 재미 반감 방지 차원입니다.</td></tr><tr><td><strong>타서버 홍보, 접속 유도</strong></td><td><mark style="background-color:orange;"><strong>1차 기간밴</strong></mark><br><mark style="background-color:orange;"><strong>~영구밴</strong></mark></td><td></td></tr><tr><td><strong>타서버 홍보가 금지된 서버에서 코나서버를 홍보</strong></td><td> <mark style="background-color:orange;"><strong>영구밴</strong></mark></td><td></td></tr><tr><td><strong>서버비하 및 운영진 비하</strong></td><td> <mark style="background-color:orange;"><strong>1차 기간밴</strong></mark><br><mark style="background-color:orange;"><strong>~영구밴</strong></mark></td><td></td></tr><tr><td>전체 채팅에서 지속적인 사담</td><td>구두 경고 이후<br>뮤트 5분~30분</td><td></td></tr></tbody></table>
+### 단타, 도배, 구걸
+
+#### 구두 경고 이후 뮤트 10분 \~ 1시간
+
+* 한 문장을 여러번 끊어 채팅을 치는 경우\
+  예) K5NA: 스폰\
+  &#x20;     K5NA: 어떻게\
+  &#x20;     K5NA: 가나요?
+* 비슷한 내용의 채팅을 지속적으로 입력하는 경우
+* 공개적으로 또는 다른 유저에게 돈/아이템 등을 대가 없이 요구하는 경우
+
+<table><thead><tr><th width="275">위반 사항</th><th width="163">처벌</th><th></th></tr></thead><tbody><tr><td><strong>홍보 및 광고성 채팅</strong><br> <strong>(전체 채팅)</strong> </td><td>구두 경고 이후 <br>경고 1회 ~ 3회</td><td>광고 기능을 사용하지 않고 홍보 및 광고성 채팅을 전체채팅에다<br>입력하면 처벌됩니다. /광고 명령어를 이용해 주세요.</td></tr><tr><td>전체 채팅에서 지속적인 사담</td><td>구두 경고 이후<br>뮤트 5분~30분</td><td></td></tr><tr><td><strong>서버 분위기 저해</strong><br><strong>(</strong>정치적, 종교적, 사회적, 비속어 , 일방적인 반말)</td><td>경고 3회~10회</td><td>예외1: 악의적인 목적으로 채팅하는 경우 영구밴 <br>예외2: 채팅금지 상태에서 테러 시도 및 도배 등 반성하지 않는 경우 1차 기간밴</td></tr><tr><td>분쟁, 분쟁유도</td><td>경고 3회~7회</td><td>분쟁은 공공의 장소(전체 채팅, 스폰 등)에서 일어나는 경우만 처벌함을 원칙으로 하되, 필요 시, 관리진의 중재가 있을 수 있습니다. 분쟁은 최대한 당사자 간의 연락을 통해 마무리해주시기 바랍니다. 분쟁에 직/간접적 원인을 제공한 유저도 분쟁 유도로 처벌될 수 있습니다. 당사자 외 제 3자 개입도 분쟁 유도로 처벌될 수 있습니다.</td></tr><tr><td><strong>성적인 발언, 타인비하</strong> <br><strong>(인신공격)</strong></td><td>1차 기간밴<br>~2차 기간밴</td><td></td></tr><tr><td><strong>서버와 관련된 허위사실 유포</strong></td><td>경고 5회~10회</td><td></td></tr><tr><td><strong>서버 히든 컨텐츠 유포</strong></td><td>경고 5회~10회</td><td>이스터에그, 히든 퀘스트(영웅  퀘스트  이상) 관련  등 서버 컨텐츠 관련으로<br>전체채팅에다 유포 및 추측성 발언을 할 시 처벌됩니다.<br>유저의 재미 반감 방지 차원입니다.</td></tr><tr><td><strong>타서버 홍보, 접속 유도</strong></td><td>1차 기간밴<br>~영구밴</td><td></td></tr><tr><td><strong>타서버 홍보가 금지된 서버에서 코나서버를 홍보</strong></td><td> 영구밴</td><td></td></tr><tr><td><strong>서버비하 및 운영진 비하</strong></td><td> 1차 기간밴<br>~영구밴</td><td></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="🏖️ 플레이 규칙" %}
@@ -80,7 +91,7 @@ description: v2023.11.05
 (단기간에 지속적으로 규정 위반 시 **최대 3배**까지 가중 처벌될 수 있습니다)
 {% endhint %}
 
-<table><thead><tr><th></th><th width="158.66666666666666"></th><th></th></tr></thead><tbody><tr><td>테러 (건축물 훼손)</td><td>1차 기간밴(5일) ~ 영구밴</td><td></td></tr><tr><td>약탈, 절도</td><td><mark style="background-color:orange;"><strong>1차 기간밴~3차 기간밴 + 아이템 회수</strong></mark></td><td></td></tr><tr><td><strong>부적절한 닉네임 및 스킨: </strong><mark style="background-color:orange;"><strong>변경 전까지 영구밴</strong></mark></td><td></td><td>부적절한 닉네임 및 스킨(욕설, 선정적 등)을 사용하는 유저는 처벌됩니다.</td></tr><tr><td><strong>사기</strong></td><td> <mark style="background-color:orange;"><strong>경고 7회 ~2차 기간밴</strong></mark></td><td>알바 임금 관련, 아이템 거래 관련 등<br>유저간 합의한 부분을 제대로 이행하지 않는 경우 사기로 처벌됩니다. </td></tr><tr><td><strong>현금거래</strong></td><td><mark style="background-color:orange;"><strong>2차 기간밴~영구밴</strong></mark></td><td>인게임 내 아이템이나 재화 등을 실제 돈(현금 등)으로 거래하는 경우<br>구매자와 판매자 모두 처벌됩니다. </td></tr><tr><td><strong>무한회로 및 자동회로</strong></td><td> <mark style="background-color:orange;"><strong>1차 기간밴~2차 기간밴 + 강제철거</strong></mark></td><td>ON/OFF 스위치가 없는 자동화 기계 또는 무한회로를 제작 시 처벌됩니다.<br>(제작비용, 회로 안에 이용 중이던 아이템 등의 복구는 불가합니다.) </td></tr><tr><td><strong>버그악용 및 유포, 핵, 매크로, 엑스레이, 오토마우스</strong></td><td><mark style="background-color:orange;"><strong>2차 기간밴~영구밴</strong></mark></td><td>본 서버는 유저들에게 공정한 기회를 적용함을 원칙으로 합니다.<br>버그악용 및 유포, 핵, 매크로, 엑스레이, 오토마우스 등을 사용해 <br>부당이득을 취할 경우 강력히 처벌됩니다.</td></tr><tr><td><strong>다른 유저의 플레이를 방해하는 행위</strong></td><td><mark style="background-color:orange;"><strong>경고 7회~10회</strong></mark></td><td>① 유저를 따라다니면서 방해하는 행위 <br>② 거절 의사를 표해도 지속적인 TPA 요청, 귓속말 등을 보내는 행위<br>③ 사냥 중일 때 막타만을 노리거나 시도하는 행위<br>④ 사냥 중인 유저의 아이템을 고의적으로 스틸하는 행위<br>④의 기준이 모호할 수 있어 주인이 돌려달라 <mark style="color:red;"><strong>명확히</strong></mark> 요청했지만<br>      돌려주지 않았을 경우에만 고의적으로 스틸한 것으로 판단함 </td></tr><tr><td><strong>창작물 관련</strong></td><td><mark style="background-color:orange;"><strong>1차 기간밴~영구밴 + 강제철거</strong></mark></td><td>① 특정인을 비방 또는 정치적인 성향이거나 선정적일 경우 <br>② 인게임 내 다른 유저가 만든 창작물을 모방했을 경우 </td></tr><tr><td><strong>몹타워 혹은 몹 사냥터 건설</strong></td><td><mark style="background-color:orange;"><strong>경고 7회~10회 + 강제철거</strong></mark></td><td>몬스터를 편리하게 사냥하기 위해 낙사를 이용한 몹타워 등 <br>몬스터와 관련된(크리퍼 사냥터, 엘더 가디언 사냥터 등)<br>모든 건축물을 건설 시 처벌됩니다. </td></tr><tr><td>악의적인알박기</td><td></td><td></td></tr><tr><td><strong>부계정 사용 및 추천사이트 부정 추천</strong></td><td><mark style="background-color:orange;"><strong>2차 기간밴~영구밴</strong></mark></td><td>본 서버는 반야생 컨텐츠 밸런싱 관련하여 부계정 사용을 금지합니다.<br>만약 부계정 사용이 적발될 시 강력히 처벌됩니다.<br>또는 추천사이트에서(마인리스트, 마인페이지) 서버 추천과 관련하여<br>부정 추천을 강력히 금지합니다.<br>부계정 및 기타 부정한 방법(VPN 등)을 통한 중복 추천 금지</td></tr></tbody></table>
+<table><thead><tr><th></th><th width="158.66666666666666"></th><th></th></tr></thead><tbody><tr><td>테러 (건축물 훼손)</td><td>1차 기간밴(5일) ~ 영구밴</td><td></td></tr><tr><td>약탈, 절도</td><td><mark style="background-color:orange;"><strong>1차 기간밴~3차 기간밴 + 아이템 회수</strong></mark></td><td></td></tr><tr><td><strong>부적절한 닉네임 및 스킨: </strong><mark style="background-color:orange;"><strong>변경 전까지 영구밴</strong></mark></td><td></td><td>부적절한 닉네임 및 스킨(욕설, 선정적 등)을 사용하는 유저는 처벌됩니다.</td></tr><tr><td>안맞 사냥 (무적 자리)</td><td></td><td></td></tr><tr><td><strong>사기</strong></td><td> <mark style="background-color:orange;"><strong>경고 7회 ~2차 기간밴</strong></mark></td><td>알바 임금 관련, 아이템 거래 관련 등<br>유저간 합의한 부분을 제대로 이행하지 않는 경우 사기로 처벌됩니다. </td></tr><tr><td><strong>현금거래</strong></td><td><mark style="background-color:orange;"><strong>2차 기간밴~영구밴</strong></mark></td><td>인게임 내 아이템이나 재화 등을 실제 돈(현금 등)으로 거래하는 경우<br>구매자와 판매자 모두 처벌됩니다. </td></tr><tr><td><strong>무한회로 및 자동회로</strong></td><td> <mark style="background-color:orange;"><strong>1차 기간밴~2차 기간밴 + 강제철거</strong></mark></td><td>ON/OFF 스위치가 없는 자동화 기계 또는 무한회로를 제작 시 처벌됩니다.<br>(제작비용, 회로 안에 이용 중이던 아이템 등의 복구는 불가합니다.)<br></td></tr><tr><td><strong>버그악용 및 유포, 핵, 매크로, 엑스레이, 오토마우스</strong></td><td><mark style="background-color:orange;"><strong>2차 기간밴~영구밴</strong></mark><br><br><mark style="background-color:orange;"><strong>획득한 이득 몰수</strong></mark><br></td><td>본 서버는 유저들에게 공정한 기회를 적용함을 원칙으로 합니다.<br>버그악용 및 유포, 핵, 매크로, 엑스레이, 오토마우스 등을 사용해 <br>부당이득을 취할 경우 강력히 처벌됩니다.<br><br>플레이에 영향을 주는 변조 프로그램/모드/핵(엑스레이, 스마트 무빙, 오토마인 등) 금지.<br><br>다른 플레이어와의 형평성 문제를 발생시키는 모든 형태의 매크로, 혹은 매크로와 유사한 기능(자동 낚시 등)</td></tr><tr><td></td><td></td><td></td></tr><tr><td><strong>다른 유저의 플레이를 방해하는 행위</strong></td><td><mark style="background-color:orange;"><strong>경고 7회~10회</strong></mark></td><td>① 유저를 따라다니면서 방해하는 행위 <br>② 거절 의사를 표해도 지속적인 TPA 요청, 귓속말 등을 보내는 행위<br>③ 사냥 중일 때 막타만을 노리거나 시도하는 행위<br>④ 사냥 중인 유저의 아이템을 고의적으로 스틸하는 행위<br>④의 기준이 모호할 수 있어 주인이 돌려달라 <mark style="color:red;"><strong>명확히</strong></mark> 요청했지만<br>      돌려주지 않았을 경우에만 고의적으로 스틸한 것으로 판단함 </td></tr><tr><td><strong>창작물 관련</strong></td><td><mark style="background-color:orange;"><strong>1차 기간밴~영구밴 + 강제철거</strong></mark></td><td>① 특정인을 비방 또는 정치적인 성향이거나 선정적일 경우 <br>② 인게임 내 다른 유저가 만든 창작물을 모방했을 경우 </td></tr><tr><td><strong>몹타워 혹은 몹 사냥터 건설</strong></td><td><mark style="background-color:orange;"><strong>경고 7회~10회 + 강제철거</strong></mark></td><td><p>몬스터를 편리하게 사냥하기 위해 낙사를 이용한 몹타워 등 <br>몬스터와 관련된(크리퍼 사냥터, 엘더 가디언 사냥터 등)<br>모든 건축물을 건설 시 처벌됩니다. <br><br><br>- 형평성 및 서버의 렉 방지를 위해 다량의 몹 스폰을 유도하여 아이템을 취하는 형태, 일명 ‘몹 공장’은 제재 대상임. 아래 조건을 모두 만족할시, 몹 공장으로 간주함.</p><p>> 레드스톤과 깔때기를 사용하는 시설</p><p>> 자동 또는 반자동으로 몹을 죽이는 시설</p><p>> 고의적으로 다량의 몹 스폰을 유도하는 시설</p><p>- 공장의 가동 및 이용이 발각되면 경고 3점 부여. 몹 공장으로 판단하기 애매한 경우 관리진의 회의를 거쳐 의견을 수렴함. 자진 신고의 경우 처벌을 면함.</p><p>- 네더 천장 위 베드락 평원을 이용하여 구조물을 건설하는 행위 자체는 금지됨. 베드락 평원의 출입 및 건설이 확인될 시 경고 3점을 부여.</p><p>- 자동화된 설비를 이용하여 광물을 채집하는 형태의 '광물 공장'은 전적으로 금지함. 이에 대한 처벌은 위 '몹 공장'에 대한 처벌 기준을 준용함.</p><p>- 자동화된 설비를 이용하여 작물을 채집하는 형태의 '자동 농사'는 제한적으로 허용함. 상세 조건은 아래와 같음.</p><p>> 1인당 자동 농사가 이루어지는 구역을 소유할 수 있는 범위는 '청크 개수 * 층 수'가 12 이하가 되도록 제한 함. 이를 위반할 경우 경고 3점이 부여 됨.</p><p>> 자동 농사를 위한 설비를 수시로 건축/파괴하는 방식으로 상기 제한의 위반이 발각될 경우, 관리진의 회의를 거쳐 가중 처벌이 이루어질 수 있음.</p><p>> 자동 농장으로 판단하기 애매한 경우 관리진의 회의를 거쳐 의견을 수렴함. 자진 신고의 경우 처벌을 면함. </p></td></tr><tr><td>악의적인 알박기</td><td></td><td></td></tr><tr><td><strong>부계정 사용 및 추천사이트 부정 추천</strong></td><td><mark style="background-color:orange;"><strong>2차 기간밴~영구밴</strong></mark></td><td>본 서버는 반야생 컨텐츠 밸런싱 관련하여 부계정 사용을 금지합니다.<br>만약 부계정 사용이 적발될 시 강력히 처벌됩니다.<br>또는 추천사이트에서(마인리스트, 마인페이지) 서버 추천과 관련하여<br>부정 추천을 강력히 금지합니다.<br>부계정 및 기타 부정한 방법(VPN 등)을 통한 중복 추천 금지</td></tr><tr><td><strong>운영진 사칭</strong></td><td>영구밴</td><td>위 행위는 운영진의 직접적인 닉네임을 닉네임/칭호로 설정하는 것은 물론<br>본인을  '관리자' 또는 '어드민' 이라 간접적으로라도 칭하는 모든 행위를 포함합니다. </td></tr></tbody></table>
 
 ### 엔티티 제한
 
@@ -92,23 +103,9 @@ description: v2023.11.05
 
 ## 유저간 전투 (PVP)
 
-코나 서버는 유저간 전투 (PVP) 를 관련한 모든 일에 대해 처벌을 진행하지 않습니다.
-
-되도록 안전한 곳에서 자리를 비우는 것을 추천드립니다.
-
+코나 서버는 유저간 전투 (PVP) 를 관련한 모든 일에 대해 처벌을 진행하지 않습니다.\
+되도록 안전한 곳에서 자리를 비우는 것을 추천드립니다.\
 부동산 설정으로 부동산 내 PVP를 비활성화 할 수 있습니다. ([자세한 내용](../guide/main-contents/residence/))
-
-
-
-
-
-* **운영진 사칭: **<mark style="background-color:orange;">**영구밴**</mark>\
-  위 행위는 운영진의 직접적인 닉네임을 닉네임/칭호로 설정하는 것은 물론\
-  본인을  '관리자' 또는 '어드민' 이라 간접적으로라도 칭하는 모든 행위를 포함합니다.&#x20;
-* **운영진의 처벌에 관하여 지속적인 이의제기: **<mark style="background-color:orange;">**경고 5회\~10회**</mark>\
-  처리/답변 후에도 지속적인 이의제기로 운영 방해를 할 시 처벌됩니다.&#x20;
-* **운영진의 처벌에 관하여 당사자가 아닌 제3자 개입: **<mark style="background-color:orange;">**경고 5회\~10회**</mark>\
-  예외: 당사자가 운영진에게 직접적으로 의견을 소명할 수 없는 합당한 이유가 있을 때&#x20;
 {% endtab %}
 
 {% tab title="🔧 복구 불가" %}
@@ -120,7 +117,7 @@ description: v2023.11.05
 ### 지옥, 엔더, 광질월드&#x20;
 
 지옥 및 엔더, 광질월드는 원활한 자원 수급 등을 위해 주기적으로 초기화가 진행됩니다.\
-따라서 해당 월드에 정성스러운 건축물 및 개인물품 보관 등은 권장되지 않습니다.
+따라서 해당 월드에 정성스러운 건축물 및 개인 물품 보관 등은 권장되지 않습니다.
 
 <mark style="color:red;">**초기화로 발생되는 데이터 소실에 대해서는 서버에서 책임을 지지 않으니 유의하시기 바랍니다.**</mark>
 
@@ -147,6 +144,8 @@ description: v2023.11.05
 ### 개인 과실
 
 * &#x20;개인 과실로 인한 유실은 복구가 <mark style="color:red;">불가</mark>합니다.
+  * e.g) 가상 쓰레기통에 실수로 버리는 행동
+  * 인벤토리가 가득 찬 상태로 이벤트 등의 보상을 받은 경우
 
 ### 마인크래프트 기본 시스템과 특수 시스템 충돌
 
@@ -170,11 +169,29 @@ description: v2023.11.05
 * 홍보(타서버, 타 커뮤니티, 방송 홍보 등)는 <mark style="color:red;">무통보 삭제 조치</mark>됩니다.\
   또한,[ 채팅 규칙](rules-1.md#undefined-4)에 따라 <mark style="color:red;">처벌</mark>됩니다.
 {% endtab %}
+{% endtabs %}
 
-{% tab title="데이터 보존" %}
+## \[이의 제기]
+
+{% hint style="warning" %}
+영구밴 처벌이 되었을 때 처벌이 부당하다 생각될 경우에는 \
+영구밴 처벌된 시간을 기준으로 <mark style="background-color:orange;">**72시간 이내**</mark>에 디스코드 티켓을 통해 \
+본인 의견을 소명해야 합니다. (대리 소명 불가)
+{% endhint %}
+
+* **지속적인 이의제기**\
+  처리 / 답변 이후에도 지속적인 이의제기로 운영진의 정상적인 운영을 방해할 시 처벌됩니다.\
+  <mark style="color:red;">**경고 5회 \~ 10회**</mark>
+* **운영진의 처벌에 관하여 당사자가 아닌 제3자 개입**\
+  예외: 당사자가 운영진에게 직접적으로 의견을 소명할 수 없는 합당한 이유가 있을때\
+  <mark style="color:red;">**경고 5회 \~ 10회**</mark>
+
+## \[데이터 보존]
+
 ### 영구 정지 유저 데이터
 
-* [영구 정지 유저](#user-content-fn-2)[^2]\* 의 모든 데이터(소지품, 건축물 등)의 소유권은 서버로 귀속됩니다.
+* [영구 정지 유저](#user-content-fn-1)[^1]\* 의 모든 데이터(소지품, 부동산, 건축물 등)의 소유권은 서버로 귀속됩니다.
+  * 해당 유저의 부동산에 공동원(동거인/마을원)이 있을 경우, 협의 후 대표자에게 부동산 증여
 * 해당 유저와 관련된 모든 데이터를 삭제할 수 있습니다.
 * 영구 정지 유저에게 서버와 관련된 서비스를 일체 제공하지 않으며,\
   카페 및 디스코드 채널 등에서 해당 유저를 강제로 탈퇴시킬 수 있습니다,
@@ -188,19 +205,14 @@ description: v2023.11.05
 
 1. **90일 이상 장기 미접속 유저의 부동산은 보호권이 소멸됩니다.** \
    장기 미접속자의 부동산 부지를 사용하고 싶을 경우 \
-   카페나 디스코드의 철거 신청 게시판에 게시물 등록 (등록은 한 번만 합니다 순차적으로 진행)
+   디스코드의 '[지원요청](https://discord.com/channels/480649487359016960/860537631842762772) -  장기 미접속 부동산 삭제' 에 양식에 따라 신청해 주시기 바랍니다.
 2. **잠금된 물체를 설치하였으나 타인의 부동산 내부에 설치한 경우**\
    물체 강제 철거 (내용물이 있을 경우 폐기처리)
 3. **특별한 사유로 장기 미접속을 하게 될 경우**\
    특별한 사유가 인정될 시에는 부재신청을  해주시면 확인 후 <mark style="background-color:orange;">**예외 처리**</mark>가 가능합니다.\
    (시험, 입대, 유학 등의 특별한 사유가 있는 경우에만 한함)
-{% endtab %}
-{% endtabs %}
 
-[^1]: 한 문장을 여러번 끊어 채팅을 치는 경우\
-    예) K5NA: 스폰\
-    &#x20;     K5NA: 어떻게\
-    &#x20;     K5NA: 가나요?
 
-[^2]: 의견 소명기간이 지나 \
+
+[^1]: 의견 소명기간(72시간)이 지나 \
     언밴 가능성이 없는 무기한 밴
