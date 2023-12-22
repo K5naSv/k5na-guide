@@ -8,6 +8,8 @@
 | <p>/res pdel [닉네임]<br>/권한뺏기 [닉네임]</p>             | 해당 플레이어에게 부동산 권한뻇기 |   |
 | /res pset \[닉네임] \[권한] \[true/false/remove]       |                    |   |
 | **/res check \[residence] \[flag] (playername)**  |                    |   |
+| /플래그알바추가 \[닉네임]                                   |                    |   |
+| /플래그알바제거 \[닉네임]                                   |                    |   |
 
 ### 플래그
 

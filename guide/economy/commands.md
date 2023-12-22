@@ -2,7 +2,7 @@
 
 <table><thead><tr><th width="272">명령어</th><th>설명</th></tr></thead><tbody><tr><td>/pay [닉네임] [금액]<br>/지불 [닉네임] [금액]</td><td>해당 플레이어에게 [금액] 만큼 송금</td></tr><tr><td></td><td>​</td></tr><tr><td>/돈, /ehs</td><td>본인 소지금 확인</td></tr><tr><td>​</td><td>​</td></tr><tr><td>/trade, /거래</td><td>거래 관련 도움말을 확인합니다.</td></tr><tr><td>/trade offer [닉네임]<br>/거래제안 [닉네임]</td><td>해당 플레이어에게 거래 제안 보내기</td></tr><tr><td></td><td>​</td></tr><tr><td>/trade accept<br>/거래수락</td><td>거래 제안 수락</td></tr><tr><td>/trade deny [닉네임]<br>/거래거절</td><td>해당 플레이어에게 온 거래 제안 거절</td></tr><tr><td>/trade block [닉네임]<br>/거래차단</td><td>해당 플레이어의 거래 제안 차단</td></tr><tr><td>/trade toggle<br>/거래토글</td><td>거래 제안 받기 기능을 끄거나 켜기</td></tr></tbody></table>
 
-### 돈 랜덤지급
+### 💸 돈 랜덤지급
 
 나의 소지금을 접속중인 플레이어들에게 랜덤으로 나눠주어 멋짐✨을 뽐내는 기능입니다.
 
