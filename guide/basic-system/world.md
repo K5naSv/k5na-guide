@@ -10,7 +10,7 @@
 {% endtab %}
 
 {% tab title="거주" %}
-(사진)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 명령어: /거주 또는/rjwn&#x20;
 
