@@ -4,7 +4,6 @@
 
 ## &#x20;          서버에 처음 오셨나요? <a href="#serverinfo" id="serverinfo"></a>
 
-* [😎 시작하기](serverinfo/beginning.md)
 * [⚖ 규칙](serverinfo/rules-1.md)
 * [❓ 자주 묻는 질문 (수정중)](serverinfo/fqa.md)
 
@@ -32,6 +31,7 @@
   * [단축키](guide/features/undefined-1.md)
   * [템수리](guide/features/undefined-2.md)
   * [🛠 편의성 조합법](guide/features/undefined-3.md)
+  * [광고](guide/features/undefined-4.md)
 * [✨ 주요 컨텐츠](guide/main-contents/README.md)
   * [🏠 부동산](guide/main-contents/residence/README.md)
     * [권한 및 플래그 설정 (수정중)](guide/main-contents/residence/undefined.md)
