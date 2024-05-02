@@ -35,12 +35,12 @@ description: v2023.11.05
 
 {% hint style="warning" %}
 유저 신고 / 버그 제보 시 코나서버 디스코드의 지원요청 채널에다 \
-<mark style="color:red;">**증거물 원본과 함께**</mark> 누가, 언제, 몇 시쯤인지 등 상황 설명을  자세히 작성하여 제출해 주세요.\
+<mark style="color:red;">**증거물 원본과 함께**</mark> 누가, 언제, 어디서인지 등 상황 설명을 자세히 작성하여 제출해 주세요.\
 증거물 누락 시에는 미응대 및 게시글 삭제 처리가 진행됩니다.
 {% endhint %}
 
 {% hint style="warning" %}
-채팅, 플레이 방해 등 상황을 찍어둔 <mark style="color:blue;">**스크린샷**</mark>이나 <mark style="color:blue;">**녹화영상로**</mark>만이 증거물로 인정됩니다.\
+채팅, 플레이 방해 등 당시상황을 찍은 <mark style="color:blue;">**스크린샷**</mark>이나 <mark style="color:blue;">**녹화영상로**</mark>만이 증거물로 인정됩니다.\
 개인 채팅 로그 파일은 조작의 우려가 있어 증거물로 인정되지 않습니다.
 
 <mark style="color:orange;">※</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**거래, 알바**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">등과 같이 돈과 관련된 대화를 나눌 때 혹시 모를 피해를 대비하여</mark>\
