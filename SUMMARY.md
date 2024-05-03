@@ -46,14 +46,13 @@
   * [👗 옷장](guide/cosmetics/wardrobe.md)
   * [🏷️ 이름표](guide/cosmetics/nameplates.md)
   * [⚒️ 도구 스킨](guide/cosmetics/undefined.md)
-* [🖼️ 예술](guide/art/README.md)
-  * [🎨 그림](guide/art/paintings.md)
 
 ## COMING SOON... <a href="#coming" id="coming"></a>
 
 * [출시예정](coming/future-update/README.md)
   * [🖼️ 예술](coming/future-update/art/README.md)
     * [🎹 악기](coming/future-update/art/music.md)
+    * [🎨 그림](coming/future-update/art/paintings.md)
   * [🎉 보상](coming/future-update/reward/README.md)
     * [🔅 코나패스](coming/future-update/reward/k5na-pass.md)
   * [💄 꾸미기](coming/future-update/cosmetics/README.md)
