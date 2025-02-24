@@ -3,7 +3,7 @@
 {% tabs %}
 {% tab title="🗝️ 판도라의 상자" %}
 {% hint style="info" %}
-벌발굴/농사/낚시/채광 활동을 하면 확률적으로  ':key2:<mark style="color:purple;">**판도라의 열쇠**</mark>'가 지급됩니다.
+낚시/농사/발굴/벌목/채광/전투 활동을 하면 확률적으로 :key2:<mark style="color:purple;">**판도라의 열쇠**</mark> 가 지급됩니다.
 {% endhint %}
 
 #### 열쇠 확률
