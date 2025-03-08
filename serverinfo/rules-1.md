@@ -1,5 +1,5 @@
 ---
-description: v2023.11.05
+description: v2025.03.05
 ---
 
 # ⚖️ 코나서버 규정
@@ -189,7 +189,7 @@ description: v2023.11.05
   * 가상 쓰레기통에 실수로 버린 경우
   * 인벤토리가 가득 찬 상태로 보상을 받은 경우
   * 아이템을 용암/바닥에 뿌린 후 소멸된 경우
-  * 실수로 아이템을 사용한 경
+  * 실수로 아이템을 사용한 경우
 
 ### 마인크래프트 기본 시스템과 특수 시스템 충돌
 
@@ -207,11 +207,11 @@ description: v2023.11.05
 ### **서버 커뮤니티 분위기 저해**
 
 * 정치적, 종교적, 사회적 발언, 비속어, 분쟁유도, 분쟁, 도배 등 : \
-  타임아웃 또는[ 채팅 규칙](rules-1.md#undefined-4)에 따른 인게임 <mark style="color:red;">제제</mark> 및 커뮤니티 내 <mark style="color:red;">제제</mark>
+  타임아웃 또는[ 채팅 규칙](rules-1.md#undefined-4)에 따른 인게임 <mark style="color:red;">제재</mark> 및 커뮤니티 내 <mark style="color:red;">제재</mark>
 * 해킹 의심 계정의 경우에는 무조건 우선 <mark style="color:red;">차단</mark>됩니다.\
   차단 해제를 위해서는 인게임 내에서 관리자에게 문의해주시기 바랍니다.
 * 홍보(타서버, 타 커뮤니티, 방송 홍보 등)는 <mark style="color:red;">무통보 삭제 조치</mark>됩니다.\
-  또한,[ 채팅 규칙](rules-1.md#undefined-4)에 따라 <mark style="color:red;">제제</mark>됩니다.
+  또한,[ 채팅 규칙](rules-1.md#undefined-4)에 따라 <mark style="color:red;">제재</mark>됩니다.
 * 커뮤니티 내에서도 인게임 [채팅 규칙](rules-1.md#undefined-4) 적용됩니다.
 {% endtab %}
 {% endtabs %}
