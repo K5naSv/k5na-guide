@@ -29,17 +29,21 @@
 
 ### 영역 설정 (고급편) (수정중)
 
+* **/res select size** – 선택한 영역의 **범위** 및 **가격**을 확인합니다.
 * **/res select \[x y z]** \
   – 예시로 **/res select 5 5 5** 명령어를 입력하면,  \
-  \- 본인을 기준으로 **상/하/좌/우** 각각 <mark style="color:purple;">**5블록**</mark>씩 선택되어서  \
-  \- <mark style="color:purple;">**직육면체**</mark> 모양으로 부동산 영역을 선택하게 됩니다.
-* **/res select chunk** – Select a whole chunk for protection.
-* **/res select auto \[playername]** – Turns on auto selection tool
-* **/res select expand \[amount]** – Expand selection in direction your looking.
-* **/res select size** – show selected area size
-* **/res select shift \[amount]** – Shift selection in direction your looking.
-* **/res select vert** – expand selection from sky to bedrock
-* **/res select worldedit** – use an area defined by WorldEdit
+  – 본인을 기준으로 **상/하/좌/우** 각각 <mark style="color:purple;">**5블록**</mark>씩 선택되어서  \
+  – <mark style="color:purple;">**직육면체**</mark> 모양으로 부동산 영역을 선택하게 됩니다.\
+  – 반드시 x, y, z 세 자리에 숫자를 모두 입력해야 합니다!
+* **/res select chunk** \
+  – 본인이 위치해 있는 **청크 경계선** 만큼 부동산 영역을 선택합니다.\
+  – 청크 경계선 확인은 키보드에서 <mark style="color:purple;">**F3+G 키**</mark>를 누르세요.
+* **/res select residence** – **부동산**의 크기만큼 영역을 선택합니다.
+* **/res select shift \[숫자]** – 바라보는 방향대로 선택 영역을 **축소**합니다.
+* **/res select expand \[숫자]** – 바라보는 방향대로 선택 영역을 **확장**합니다.
+* **/res select vert** – 선택한 영역에서 **y좌표** 범위를 **위+아래** 최대로 확장합니다.
+* **/res select sky** – 선택한 영역에서 **y좌표** 범위를 **하늘 끝**까지 최대로 확장합니다.
+* **/res select bedrock** – 선택한 영역에서 **y좌표** 범위를 **기반암** 지점까지 최대로 확장합니다.
 
 ### 장기 미접속 부동산
 
