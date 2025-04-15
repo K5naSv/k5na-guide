@@ -29,7 +29,10 @@
 
 ### 영역 설정 (고급편) (수정중)
 
-* **/res select \[x y z]** – select a cuboid area to protect, using either the selection tool (wooden axe by default) or specifying X, Y, and Z as a distance on those axes from the center point where you are standing (“10 5 10” would select an area 21 wide x 11 high x 21 long.
+* **/res select \[x y z]** \
+  – 예시로 **/res select 5 5 5** 명령어를 입력하면,  \
+  \- 본인을 기준으로 **상/하/좌/우** 각각 <mark style="color:purple;">**5블록**</mark>씩 선택되어서  \
+  \- <mark style="color:purple;">**직육면체**</mark> 모양으로 부동산 영역을 선택하게 됩니다.
 * **/res select chunk** – Select a whole chunk for protection.
 * **/res select auto \[playername]** – Turns on auto selection tool
 * **/res select expand \[amount]** – Expand selection in direction your looking.
