@@ -2,7 +2,7 @@
 
 ## 플레이어 권한
 
-<table><thead><tr><th width="349">목록</th><th width="323.3333333333333">설명</th><th>비고</th></tr></thead><tbody><tr><td>/res padd [닉네임]<br>/권한주기 [닉네임]</td><td>해당 유저에게 부동산 권한주기</td><td></td></tr><tr><td>/res pdel [닉네임]<br>/권한뺏기 [닉네임]</td><td>해당 유저의 부동산 권한뺏기</td><td></td></tr><tr><td>/res check [부동산명] [플래그] [닉네임]</td><td></td><td></td></tr><tr><td>/플래그알바추가 [닉네임]</td><td></td><td></td></tr><tr><td>/플래그알바제거 [닉네임]</td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="349">목록</th><th width="323.3333333333333">설명</th><th>비고</th></tr></thead><tbody><tr><td>/res padd [닉네임]<br>/권한주기 [닉네임]</td><td>해당 유저에게 부동산 권한 주기</td><td></td></tr><tr><td>/res pdel [닉네임]<br>/권한뺏기 [닉네임]</td><td>해당 유저의 부동산 권한 뺏기</td><td></td></tr><tr><td>/res check [부동산명] [플래그] [닉네임]</td><td></td><td></td></tr><tr><td>/땅알바추가 [부동산명] [닉네임]</td><td>해당 유저에게 일부 플래그 권한 주기<br>(문, 접근, 설치, 파괴, 보관)</td><td></td></tr><tr><td>/땅알바제거 [부동산명] [닉네임]</td><td>적용했던 일부 플래그 권한 제거</td><td></td></tr></tbody></table>
 
 ### 플래그
 
