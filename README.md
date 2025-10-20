@@ -1,16 +1,5 @@
 ---
 description: 어드벤쳐 야생 서버, 코나(K5NA)에서 즐거운 추억을 만들어보세요!
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🌱 웰컴!

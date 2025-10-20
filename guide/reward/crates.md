@@ -12,7 +12,7 @@
 섬세한 손길 인챈트가 되어있는 도구는 열쇠 드랍이 되지 않습니다.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/PandoraChance.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/K5napandorakeyChance.png" alt=""><figcaption></figcaption></figure>
 
 #### 🎁 보상
 
