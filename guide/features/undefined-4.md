@@ -1,10 +1,3 @@
-# 📢 광고
+# ⌨ 단축키
 
-[https://cafe.naver.com/k5na/2668](https://cafe.naver.com/k5na/2668) \
-위에 게시글 참고하여 적어주세요. (사진 첨부 필수)
-
-
-
-
-
-주의 사항: 채팅 광고만 전체 서버로 나갑니다. 액션바, 보스바는 전체 서버로 전송되지 않습니다. 관련 설명 추가 바람.
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>

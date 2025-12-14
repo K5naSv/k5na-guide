@@ -1,6 +1,6 @@
 # 💬 채팅
 
-<table data-full-width="false"><thead><tr><th width="272">명령어</th><th>설명</th></tr></thead><tbody><tr><td>/act , /ㅁㅊㅅ</td><td>지역채팅 기능 끄고 켜기 반경 50블록 이내에 사람들과 대화</td></tr><tr><td>​</td><td>​</td></tr><tr><td>/msg [닉네임] [할말]</td><td>해당 플레이어에게 귓속말 보내기</td></tr><tr><td>/r [할말]</td><td>최근 귓속말 간편 답장</td></tr><tr><td>​</td><td>​</td></tr><tr><td>/mail send [닉네임] [할말]</td><td>오프라인 유저에게 쪽지를 보냅니다.</td></tr><tr><td>/쪽지 보내기 [닉네임] [할말]</td><td>​</td></tr><tr><td>/mail, /쪽지</td><td>쪽지함 열기, 해당 쪽지함에서 x 표시를 눌러 쪽지 개별 삭제</td></tr><tr><td>/쪽지삭제</td><td>쪽지함에 있는 모든 쪽지 삭제</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="272">명령어</th><th>설명</th></tr></thead><tbody><tr><td>/act , /ㅁㅊㅅ</td><td>지역채팅 기능 끄고 켜기 반경 50블록 이내에 사람들과 대화</td></tr><tr><td>​/ac 메시지</td><td>​메세지를 지역채팅에 전송</td></tr><tr><td>/msg [닉네임] [할말]</td><td>해당 플레이어에게 귓속말 보내기</td></tr><tr><td>/r [할말]</td><td>최근 귓속말 간편 답장</td></tr><tr><td>​</td><td>​</td></tr><tr><td>/mail send [닉네임] [할말]</td><td>오프라인 유저에게 쪽지를 보냅니다.</td></tr><tr><td>/쪽지 보내기 [닉네임] [할말]</td><td>​</td></tr><tr><td>/mail, /쪽지</td><td>쪽지함 열기, 해당 쪽지함에서 x 표시를 눌러 쪽지 개별 삭제</td></tr><tr><td>/쪽지삭제</td><td>쪽지함에 있는 모든 쪽지 삭제</td></tr></tbody></table>
 
 
 
