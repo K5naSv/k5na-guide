@@ -137,7 +137,7 @@ description: v2025.03.05
 
 코나서버는 유저간 전투 (PVP) 를 관련한 모든 일에 대해 <mark style="color:red;">**처벌을 진행하지 않습니다.**</mark>\
 되도록 안전한 곳에서 자리를 비우는 것을 추천드립니다.\
-부동산 설정으로 부동산 내 PVP를 비활성화 할 수 있습니다. ([자세한 내용](../../guide/main-contents/residence/))
+부동산 설정으로 부동산 내 PVP를 비활성화 할 수 있습니다. ([자세한 내용](../guide/main-contents/residence/))
 
 ### ② 엔티티 제한
 
@@ -179,7 +179,7 @@ description: v2025.03.05
 ### 테러/약탈
 
 * 유저에 의해 테러가 발생한 경우는 복구 <mark style="color:red;">불가</mark>합니다\
-  테러 방지를 위해 꼭 [부동산](../../guide/main-contents/residence/) 구매 및 권한 설정을 진행해 주세요.
+  테러 방지를 위해 꼭 [부동산](../guide/main-contents/residence/) 구매 및 권한 설정을 진행해 주세요.
 * 부동산 내 권한있는 유저에 의한 테러의 경우에도 복구 <mark style="color:red;">불가</mark>합니다.
 * 약탈의 경우 <mark style="color:orange;">**회수**</mark>가 가능한 선 내에서만 복구가 가능합니다.
 * 예외: 광범위한 테러일 경우 등 일부 상황에 한해 운영진의 판단에 따라 \
@@ -209,12 +209,12 @@ description: v2025.03.05
 ### **서버 커뮤니티 분위기 저해**
 
 * 정치적, 종교적, 사회적 발언, 비속어, 분쟁유도, 분쟁, 도배 등 : \
-  타임아웃 또는[ 채팅 규칙](./#undefined-4)에 따른 인게임 <mark style="color:red;">제재</mark> 및 커뮤니티 내 <mark style="color:red;">제재</mark>
+  타임아웃 또는[ 채팅 규칙](rules-1.md#undefined-4)에 따른 인게임 <mark style="color:red;">제재</mark> 및 커뮤니티 내 <mark style="color:red;">제재</mark>
 * 해킹 의심 계정의 경우에는 무조건 우선 <mark style="color:red;">차단</mark>됩니다.\
   차단 해제를 위해서는 인게임 내에서 관리자에게 문의해주시기 바랍니다.
 * 홍보(타서버, 타 커뮤니티, 방송 홍보 등)는 <mark style="color:red;">무통보 삭제 조치</mark>됩니다.\
-  또한,[ 채팅 규칙](./#undefined-4)에 따라 <mark style="color:red;">제재</mark>됩니다.
-* 커뮤니티 내에서도 인게임 [채팅 규칙](./#undefined-4) 적용됩니다.
+  또한,[ 채팅 규칙](rules-1.md#undefined-4)에 따라 <mark style="color:red;">제재</mark>됩니다.
+* 커뮤니티 내에서도 인게임 [채팅 규칙](rules-1.md#undefined-4) 적용됩니다.
 {% endtab %}
 {% endtabs %}
 
