@@ -24,13 +24,14 @@
 {% endtab %}
 
 {% tab title="광질" %}
-(사진)
+#### 월드이동 방법
 
-명령어: /광질 또는/rhkdwlf&#x20;
+* 아무 곳에서 **/광질** 명령어 입력
+* **Shift + F** 혹은 **/메뉴**에서 지구모양 > 돌블록 클릭<br>
 
-설명: \
-바닐라 야생 지형 월드로 광물 등의 자원을 얻는 곳 입니다!\
-주기적으로 초기화됩니다
+자원 서버는 몬스터 스폰이 <mark style="color:green;">**활성화**</mark> 되어있고, <mark style="color:blue;">**초기화가 있는**</mark> 서버입니다.\
+거주 서버와는 달리 원하는대로 블록을 <mark style="color:blue;">**설치**</mark>하거나 <mark style="color:blue;">**파괴**</mark>하는 활동이 <mark style="color:green;">**가능**</mark>합니다.\
+또한, 플레이어의 스킬 레벨 상황에 따라 스폰되는 몬스터의 <mark style="color:blue;">**레벨**</mark>이나 <mark style="color:blue;">**크기**</mark>가 달라지기 때문에 더욱다이나믹한 야생 활동을 경험할 수 있습니다.
 {% endtab %}
 
 {% tab title="지옥" %}
