@@ -11,11 +11,11 @@
 {% endhint %}
 
 {% hint style="warning" %}
-부동산 채팅에 입장을 하기 위해서는 해당 부동산의 <mark style="color:blue;">**chat**</mark> 플래그 권한이 필요합니다.
+부동산 채팅에 입장하려면 해당 부동산의 <mark style="color:blue;">**chat**</mark> 플래그 권한이 필요합니다.
 {% endhint %}
 
 {% hint style="warning" %}
-부동산 채팅에 입장을 하기 위해서 <mark style="color:blue;">**거주 서버**</mark> 내에 있어야 합니다.
+부동산 채팅에 입장하려면 <mark style="color:blue;">**거주 서버**</mark> 내에 있어야 합니다.
 {% endhint %}
 
 <table><thead><tr><th width="269">명령어</th><th>설명</th></tr></thead><tbody><tr><td><strong>/res rc leave</strong></td><td>부동산 채팅에서 퇴장합니다.</td></tr><tr><td><strong>/res rc setcolor [색코드]</strong> </td><td>부동산 채팅 색상을 [색코드] 로 지정합니다.</td></tr><tr><td><strong>/res rc setprefix [이름]</strong></td><td>부동산 채팅 칭호를 [이름] 으로 지정합니다.</td></tr><tr><td><strong>/res rc kick [닉네임]</strong> </td><td>부동산 채팅에서 해당 유저를 강제퇴장 합니다.</td></tr></tbody></table>
