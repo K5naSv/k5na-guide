@@ -1,12 +1,14 @@
 # 💵 거래소
 
+<figure><img src="../../.gitbook/assets/ah_image.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="warning" %}
-거래소 이용은 스폰에서만 가능합니다.
+거래소 이용은 스폰 서버에서만 가능합니다.
 {% endhint %}
 
 {% hint style="warning" %}
-거래소 최대 등록 갯수는 [등급](../main-contents/rank.md)에  따라  다르며,\
-등록 후 3일경과 시 아이템이 만료됩니다
+거래소 최대 등록 갯수는 [등급](../main-contents/rank.md)에 따라 상이하며,\
+아이템등록 후 **3일** 경과 시 아이템이 만료됩니다.
 {% endhint %}
 
 <table><thead><tr><th width="233">명령어</th><th width="266.3333333333333">설명</th><th>부가 설명</th></tr></thead><tbody><tr><td>/거래소, /ah</td><td>거래소 메인메뉴 열기</td><td></td></tr><tr><td>/거래등록 [금액] [갯수]<br>/ah sell [금액] [갯수]</td><td>손에 든 아이템을 거래소에 등록</td><td>등급에 따라 <br>최대 등록 가능 수가 다름</td></tr><tr><td>/ah claim</td><td></td><td></td></tr><tr><td>/ah history [page]</td><td>거래소에서 거래한 내역 확인</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td><strong>/ah expire</strong></td><td>만료된 상품 보기</td><td></td></tr><tr><td><strong>/ah buying</strong></td><td>구매한 상품 보기</td><td></td></tr><tr><td><strong>/ah items</strong></td><td>판매중인 내 아이템 보기</td><td></td></tr></tbody></table>
