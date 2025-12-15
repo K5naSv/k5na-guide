@@ -2,7 +2,7 @@
 
 ### **직업의 기본 정보**
 
-메인 메뉴 UI
+<figure><img src="../../../.gitbook/assets/jobs_image (1).png" alt=""><figcaption></figcaption></figure>
 
 **/직업보기** 명령어 입력 후 **첫 페이지**에서
 
