@@ -1,6 +1,6 @@
 # 🏪 서버 상점
 
-<figure><img src="../../.gitbook/assets/Snipaste_2023-12-19_03-34-52.png" alt=""><figcaption><p>상점 메인메뉴 (/상점)<br>돌, 나무, 블록, 지옥/엔더, 식물<br>광물, 농작물, 바다, 음식, 전리품</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/shop_image.png" alt=""><figcaption><p>상점 메인메뉴 (/상점)<br>돌, 나무, 블록, 지옥/엔더, 식물<br>광물, 농작물, 바다, 음식, 전리품</p></figcaption></figure>
 
 |               |                                                    |
 | ------------- | -------------------------------------------------- |
