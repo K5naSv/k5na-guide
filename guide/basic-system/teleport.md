@@ -2,7 +2,7 @@
 
 ### 서버 이동
 
-<mark style="color:blue;">**Shift + F**</mark> 혹은 <mark style="color:blue;">**/메뉴**</mark> 명령어를 입력하여\
+<mark style="color:blue;">**Shift + F**</mark> 혹은 <mark style="color:blue;">**/메뉴**</mark> 명령어를 입력 후\
 가운데 **지구모양**을 눌러 다른 서버로 이동할 수 있습니다.\
 \
 서버↔서버 이동 시에는 <mark style="color:blue;">**3초**</mark>의 지연이 발생되며 움직일 경우 이동이 <mark style="color:red;">**취소**</mark>됩니다.\
