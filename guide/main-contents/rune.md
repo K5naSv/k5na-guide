@@ -1,6 +1,6 @@
 # 🌙 룬
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rune_main_image.png" alt=""><figcaption></figcaption></figure>
 
 **연금술사**
 
@@ -18,7 +18,9 @@
 
 
 
-팅커벨
+### 팅커벨
+
+<figure><img src="../../.gitbook/assets/tinkerer_image.png" alt=""><figcaption></figcaption></figure>
 
 ```yaml
 (50*룬 갯수)*내구도
