@@ -29,18 +29,10 @@
 
 ### 홈
 
+기본적으로 <mark style="color:red;">**1개**</mark>의 홈을 저장할 수 있으며, 유저 등급 승급을 통해 최대 <mark style="color:blue;">**30개**</mark>까지 늘릴 수 있습니다.\ <mark style="color:blue;">**/sethome \[홈이름], /셋홈 \[홈이름]**</mark> 명령어를 입력하여 현재 서있는 위치를 저장할 수 있습니다.\
+<mark style="color:blue;">**/homelist, /홈목록**</mark> 명령어를 입력하여 저장된 홈 목록을 확인할 수 있습니다.\
+<mark style="color:blue;">**/home \[홈이름], /홈 \[홈이름]**</mark> 명령어를 입력하여 해당 홈 위치로 이동할 수 있습니다.\
+<mark style="color:blue;">**/delhome \[홈이름], /홈삭제 \[홈이름]**</mark> 명령어를 입력하여 해당 홈을 삭제할 수 있습니다.
 
 
 
-
-/back
-
-/tpa 닉
-
-/tpahere 닉네임
-
-/y /ㅇ
-
-/n /ㄴ
-
-/텔포토글
