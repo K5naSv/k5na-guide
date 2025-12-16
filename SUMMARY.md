@@ -26,7 +26,7 @@
   * [기타 명령어 및 편의기능](guide/features/undefined.md)
   * [한글채팅](<guide/features/undefined-2 (1).md>)
   * [염색](<guide/features/undefined-3 (1).md>)
-  * [🔒 물체 보호 (수정)](guide/features/chestprotect.md)
+  * [🔒 물체 보호](guide/features/chestprotect.md)
   * [📦 가상 시스템](guide/features/virtual-system.md)
   * [⏫ 유저 워프 (수정)](guide/features/player-warp.md)
   * [🛗 엘레베이터](guide/features/elevator.md)
