@@ -15,7 +15,7 @@
 
 
 
-### 🔎 거래소검색
+### 🔎 거래소 검색
 
 {% hint style="info" %}
 <mark style="color:blue;">**/ah search \[키워드]**</mark> 명령어를 입력하여 아이템을 검색할 수 있습니다. (아이템 종류, 이름, 설명, 판매자 검색)
@@ -23,9 +23,9 @@
 
 #### 고급 검색
 
-**/ah search name::<아이템 이름>**  해당 아이템 이름과 정확히 일치하는 아이템을 검색합니다.\
-&#xNAN;**/ah search lore::<아이템 설명>** -> 해당 아이템 설명과 정확히 일치하는 아이템을 검색합니다.\
-&#xNAN;**/ah search seller::<판매자 이름>** -> 해당 판매자가 판매하는 아이템을 검색합니다.
+**/ah search name::<아이템 이름>** → 해당 아이템 이름과 정확히 일치하는 아이템을 검색합니다.\
+&#xNAN;**/ah search lore::<아이템 설명>** → 해당 아이템 설명과 정확히 일치하는 아이템을 검색합니다.\
+&#xNAN;**/ah search seller::<판매자 이름>** → 해당 판매자가 판매하는 아이템을 검색합니다.
 
 <table><thead><tr><th width="120" align="center">검색 기호</th><th width="188.33333333333331">설명</th><th>사용 예시</th></tr></thead><tbody><tr><td align="center"><code>:=</code></td><td>포함하는</td><td><code>/ah search name:=Diamond</code></td></tr><tr><td align="center"><code>::</code></td><td>일치하는</td><td><code>/ah search name::Diamond</code></td></tr><tr><td align="center"><code>:></code></td><td>대소문자 구분 없음</td><td><code>/ah search name:>Diamond</code></td></tr></tbody></table>
 
