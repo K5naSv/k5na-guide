@@ -16,7 +16,6 @@
   * [🌎 월드](guide/basic-system/world.md)
   * [🏃 이동](guide/basic-system/teleport.md)
   * [💬 채팅](guide/basic-system/chat.md)
-  * [🛏️ 셋홈](guide/basic-system/sethome.md)
 * [💸 경제](guide/economy/README.md)
   * [💰 경제 명령어](guide/economy/commands.md)
   * [💵 거래소](guide/economy/auction.md)
