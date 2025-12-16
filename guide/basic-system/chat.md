@@ -7,11 +7,11 @@
 ## 🏠 부동산 채팅 <a href="#reschat" id="reschat"></a>
 
 {% hint style="info" %}
-#### 부동산 내에서 <mark style="color:blue;">**/rc**</mark> 또는 <mark style="color:blue;">/res rc \[부동산]</mark> 명령어를  입력하여 해당 부동산 채팅에 입장할 수 있습니다.&#x20;
+#### 부동산 내에서 <mark style="color:blue;">**/rc**</mark> 또는 <mark style="color:blue;">/res rc \[부동산]</mark> 명령어를 입력하여 해당 부동산 채팅에 입장할 수 있습니다.&#x20;
 {% endhint %}
 
 {% hint style="warning" %}
-부동산 채팅에 입장하려면 해당 부동산의 <mark style="color:blue;">**chat**</mark> 플래그 권한이 필요합니다.
+부동산 채팅에 입장하려면 해당 부동산의 <mark style="color:blue;">**채팅(chat)**</mark> 플래그 권한이 필요합니다.
 {% endhint %}
 
 {% hint style="warning" %}
