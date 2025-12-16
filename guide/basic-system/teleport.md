@@ -1,7 +1,7 @@
 # 🏃 이동
 
 {% tabs %}
-{% tab title="서버이동" %}
+{% tab title="서버 이동" %}
 ### 서버 이동
 
 <mark style="color:blue;">**Shift + F**</mark> 혹은 <mark style="color:blue;">**/메뉴**</mark> 명령어를 입력 후\
