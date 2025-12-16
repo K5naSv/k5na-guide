@@ -17,7 +17,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption><p>'<mark style="color:blue;"><strong>/res subzone [서브존 이름]</strong></mark>' 명령어를 입력하여 해당 영역을 서브존으로 설정할 수 있습니다.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption><p>'<mark style="color:blue;"><strong>/res subzone [서브존 이름]</strong></mark>' 명령어를 입력하여 해당 영역을 서브존으로 지정<br>할 수 있습니다.</p></figcaption></figure>
 
 
 
@@ -29,5 +29,5 @@
 
 ### 🍯 서브존 꿀팁 예시
 
-<mark style="color:blue;">**농장 알바를 고용할 때**</mark> 위 방법대로 농장을 서브존으로 지정하고 **/땅알바추가 \[닉네임]** 명령어를 입력하면 \
-농장을 제외한 <mark style="color:blue;">**다른 구역의**</mark> <mark style="color:blue;">**테러를 완전 방지**</mark>할 수 있습니다.
+<mark style="color:blue;">**농장 알바를 고용할 때**</mark> 위 방법대로 농장을 서브존으로 지정하고,\
+<mark style="color:blue;">**/땅알바추가 \[닉네임]**</mark> 명령어를 입력하면 농장을 제외한 <mark style="color:blue;">**다른 구역의**</mark> <mark style="color:blue;">**테러를 완전 방지**</mark>할 수 있습니다.
