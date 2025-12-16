@@ -39,7 +39,7 @@
   * [📢 광고](guide/features/undefined-4.md)
 * [✨ 주요 컨텐츠](guide/main-contents/README.md)
   * [🏠 부동산](guide/main-contents/residence/README.md)
-    * [권한 및 플래그 설정 (수정중)](guide/main-contents/residence/undefined.md)
+    * [권한 및 플래그 설정](guide/main-contents/residence/undefined.md)
     * [서브존](guide/main-contents/residence/undefined-1.md)
   * [💼 직업](guide/main-contents/jobs/README.md)
     * [직업 종류](guide/main-contents/jobs/undefined.md)
