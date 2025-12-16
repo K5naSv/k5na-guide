@@ -22,7 +22,7 @@
   * [💁 주민거래](guide/economy/villager-trade.md)
   * [🏪 서버 상점](guide/economy/admin-shop.md)
 * [🔍 편의 기능](guide/features/README.md)
-  * [설정](<guide/features/undefined (1).md>)
+  * [유저 개인 설정](<guide/features/undefined (1).md>)
   * [기타 명령어 및 편의기능](guide/features/undefined.md)
   * [한글채팅](<guide/features/undefined-2 (1).md>)
   * [염색](<guide/features/undefined-3 (1).md>)
