@@ -2,7 +2,7 @@
 
 {% hint style="info" %}
 부동산을 <mark style="color:blue;">**여러 구역**</mark>으로 나누고 <mark style="color:blue;">**각 구역**</mark>의 플래그 설정을 <mark style="color:blue;">**다르게 설정할 수 있는 시스템**</mark>입니다.\
-(여러 유저들과 함께 지내는 마을을 만들 때 유용합니다.)
+(알바를 고용할 때나, 여러 유저들과 함께 지내는 마을을 만들 때 매우유용합니다.)
 {% endhint %}
 
 {% hint style="info" %}
