@@ -1,10 +1,10 @@
 # 권한 및 플래그 설정 (수정중)
 
-## 플레이어 권한
+### 권한 명령어
 
 <table><thead><tr><th width="323">목록</th><th width="392.3333333333333">설명</th></tr></thead><tbody><tr><td><strong>/res padd [닉네임]</strong><br><strong>/권한주기 [닉네임]</strong></td><td>해당 유저에게 부동산에 대한 <mark style="color:blue;"><strong>모든</strong></mark> 상호작용 <mark style="color:blue;"><strong>권한을 줍니다.</strong></mark></td></tr><tr><td><strong>/res pdel [닉네임]</strong><br><strong>/권한뺏기 [닉네임]</strong></td><td>해당 유저에게 적용된 부동산에 대한 <mark style="color:blue;"><strong>모든</strong></mark> 상호작용 <mark style="color:red;"><strong>권한을 뺏습니다.</strong></mark></td></tr><tr><td><strong>/res check [부동산명] [플래그] [닉네임]</strong></td><td>해당 유저에게 설정된 플래그 권한을 확인합니다.</td></tr><tr><td><strong>/땅알바추가 [부동산명] [닉네임]</strong></td><td>해당 유저에게 일부 플래그 권한을 줍니다.<br>(문, 접근, 설치, 파괴, 보관 총 5개)</td></tr><tr><td><strong>/땅알바제거 [부동산명] [닉네임]</strong></td><td>적용했던 일부 플래그 권한을 <mark style="color:red;"><strong>제거</strong></mark>합니다.</td></tr></tbody></table>
 
-### 플래그
+### 플래그 명령어
 
 {% hint style="info" %}
 **플래그란?** 부동산 내에서 어떠한 행동에 대한 <mark style="color:blue;">**True**</mark>(t), <mark style="color:red;">**False**</mark>(f), **Remove**(r) 값을 <mark style="color:blue;">**세부적**</mark>으로 설정하는 시스템입니다.
