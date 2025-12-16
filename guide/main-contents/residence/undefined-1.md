@@ -17,7 +17,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption><p>'<mark style="color:blue;"><strong>/res subzone [서브존 이름]</strong></mark>' 명령어를 입력하여 해당 영역을 서브존으로 지정<br>할 수 있습니다.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption><p>'<mark style="color:blue;"><strong>/res subzone [서브존 이름]</strong></mark>' 명령어를 입력하여 해당 영역을 서브존으로 지정할 수 있습니다.</p></figcaption></figure>
 
 
 
