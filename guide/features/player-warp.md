@@ -1,13 +1,13 @@
 # ⏫ 유저 워프 (수정)
 
 {% hint style="info" %}
-유저워프를 등록해두면 해당 워프에 다른 유저가 언제든 자유롭게 방문할 수 있습니다.
+유저워프를 등록해두면 해당 워프에 다른 유저가 <mark style="color:blue;">**언제든 자유롭게 방문할 수 있습니다.**</mark>
 {% endhint %}
 
 {% hint style="warning" %}
-* 워프 설정시 <mark style="color:yellow;">**500골드**</mark> 소모&#x20;
-* 워프 이동 시 <mark style="color:yellow;">**50골드**</mark> 소모&#x20;
-* 워프 설정 후 <mark style="color:red;">**30일 경과 시 자동 삭제**</mark>
+* 워프 등록 시 <mark style="color:blue;">**500원**</mark>을 소모합니다.
+* 워프 이동 시 <mark style="color:blue;">**50원**</mark>을 소모합니다.
+* 워프 설정 후 <mark style="color:blue;">**30일**</mark> 경과 시 <mark style="color:red;">**자동 삭제**</mark>됩니다.
 {% endhint %}
 
 ![메인 메뉴 GUI](https://1364881747-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FThZoEKQIC0PCS7rHALid%2Fuploads%2FQ4bJrS0ToYABtdL8GX3A%2Fimage.png?alt=media\&token=bf4a4f5c-8439-4927-a899-e87e9680dcf4)
