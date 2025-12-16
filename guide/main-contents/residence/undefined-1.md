@@ -6,7 +6,7 @@
 {% endhint %}
 
 {% hint style="info" %}
-특정 서브존 내에서 유저에게 플래그 권한을 주면 부동산 전체가 아닌 **해당** **서브존 내에만** 적용됩니다.
+특정 서브존 내에서 유저에게 플래그 권한을 주면 부동산 전체가 아닌 <mark style="color:blue;">**해당**</mark> <mark style="color:blue;">**서브존 내에만**</mark> <mark style="color:blue;">**적용**</mark>됩니다.
 {% endhint %}
 
 ### 서브존 설정 방법
