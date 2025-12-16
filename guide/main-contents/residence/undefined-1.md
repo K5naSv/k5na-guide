@@ -23,7 +23,7 @@
 
 ### 서브존 명령어
 
-<table><thead><tr><th width="340"></th><th></th></tr></thead><tbody><tr><td><strong>/res subzone [서브존 이름]</strong></td><td>부동산 내 <mark style="color:blue;"><strong>선택 영역</strong></mark>을 <mark style="color:blue;"><strong>서브존으로 설정</strong></mark>합니다.</td></tr><tr><td><strong>/res remove [부동산 이름].[서브존 이름]</strong><br>예시) /res remove 테스트.테스트서브</td><td>해당 서브존을 <mark style="color:red;"><strong>삭제</strong></mark>합니다.</td></tr></tbody></table>
+<table><thead><tr><th width="340"></th><th></th></tr></thead><tbody><tr><td><strong>/res subzone [서브존 이름]</strong><br>예시) /res subzone 테스트서브</td><td>부동산 내 <mark style="color:blue;"><strong>선택 영역</strong></mark>을 <mark style="color:blue;"><strong>서브존으로 설정</strong></mark>합니다.</td></tr><tr><td><strong>/res remove [부동산 이름].[서브존 이름]</strong><br>예시) /res remove 테스트.테스트서브</td><td>해당 서브존을 <mark style="color:red;"><strong>삭제</strong></mark>합니다.</td></tr></tbody></table>
 
 
 
