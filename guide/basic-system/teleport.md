@@ -1,6 +1,10 @@
 # 🏃 이동
 
+{% tabs %}
+{% tab title="서버이동" %}
 ### 서버 이동
+
+
 
 <mark style="color:blue;">**Shift + F**</mark> 혹은 <mark style="color:blue;">**/메뉴**</mark> 명령어를 입력 후\
 가운데 **지구모양**을 눌러 다른 서버로 이동할 수 있습니다.\
@@ -12,10 +16,12 @@
 \
 바로 이전 장소로 되돌아가고 싶을 때는 <mark style="color:blue;">**/back**</mark> 명령어를 입력할 수 있습니다. \
 ※ 특수한 기능으로(유저워프 등) 이동한 경우에는 back 기능의 정상적인 인식이 불가합니다.
+{% endtab %}
 
-
-
+{% tab title="TPA" %}
 ### 유저 간 이동 (TPA)
+
+
 
 <mark style="color:blue;">**/tpa \[닉네임]**</mark> 명령어를 입력하여 해당 유저의 위치로 이동하는 요청을 보낼 수 있습니다. \
 <mark style="color:blue;">**/tpahere \[닉네임]**</mark> 명령어를 입력하여 해당 유저에게 본인의 위치로 이동하는 요청을 보낼 수 있습니다.\
@@ -24,15 +30,16 @@
 \
 이동 요청 수신을 일시적으로 차단하고 싶을 때는 <mark style="color:blue;">**/tpignore, /텔포토글**</mark> 명령어를 입력하세요.\
 차단을 해제할 때도 동일한 명령어를 입력하면 됩니다.
+{% endtab %}
 
-
-
+{% tab title="홈" %}
 ### 홈
+
+
 
 기본적으로 <mark style="color:red;">**1개**</mark>의 홈을 저장할 수 있으며, 유저 등급 승급을 통해 최대 <mark style="color:blue;">**30개**</mark>까지 늘릴 수 있습니다.\ <mark style="color:blue;">**/sethome \[홈이름], /셋홈 \[홈이름]**</mark> 명령어를 입력하여 현재 서있는 위치를 저장할 수 있습니다.\
 <mark style="color:blue;">**/homelist, /홈목록**</mark> 명령어를 입력하여 저장된 홈 목록을 확인할 수 있습니다.\
 <mark style="color:blue;">**/home \[홈이름], /홈 \[홈이름]**</mark> 명령어를 입력하여 해당 홈 위치로 이동할 수 있습니다.\
 <mark style="color:blue;">**/delhome \[홈이름], /홈삭제 \[홈이름]**</mark> 명령어를 입력하여 해당 홈을 삭제할 수 있습니다.
-
-
-
+{% endtab %}
+{% endtabs %}
