@@ -31,7 +31,6 @@
   * [⏫ 유저 워프 (수정)](guide/features/player-warp.md)
   * [🛗 엘레베이터](guide/features/elevator.md)
   * [🔄 블록 회전](guide/features/block-rotator.md)
-  * [🤐 아이템 압축](guide/features/itemzip.md)
   * [⌨️ 단축키](guide/features/undefined-1.md)
   * [🔧 템수리](guide/features/undefined-2.md)
   * [👍 편의성 조합법](guide/features/undefined-3.md)
