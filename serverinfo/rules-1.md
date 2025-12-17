@@ -26,7 +26,7 @@ description: v2025.03.05
 {% endhint %}
 
 {% hint style="info" %}
-경고는 30일이 지나면 만료됩니다.
+경고를 부여 받은 날 기준으로 <mark style="color:blue;">**30일**</mark> 경과 시 경고가 <mark style="color:red;">**만료**</mark>됩니다.
 {% endhint %}
 
 <table data-full-width="false"><thead><tr><th align="center">경고 10회 도달</th><th align="center">경고 20회 도달</th><th align="center">경고 30회 도달</th><th align="center">경고 40회 도달</th></tr></thead><tbody><tr><td align="center">1차 기간밴(<mark style="color:green;"><strong>5일</strong></mark>)</td><td align="center"> 2차 기간밴(<mark style="color:yellow;"><strong>10일</strong></mark>)</td><td align="center">3차 기간밴(<mark style="color:orange;"><strong>30일</strong></mark>)</td><td align="center"><mark style="color:red;"><strong>영구 정지</strong></mark></td></tr></tbody></table>
