@@ -1,6 +1,6 @@
 # 🌙 룬
 
-### ① 마력의 룬
+### ① 마법의 룬
 
 <figure><img src="../../.gitbook/assets/rune_main_image.png" alt=""><figcaption></figcaption></figure>
 

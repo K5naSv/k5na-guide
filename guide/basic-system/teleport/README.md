@@ -36,7 +36,7 @@
 ### 홈
 
 {% hint style="info" %}
-기본적으로 <mark style="color:red;">**1개**</mark>의 홈을 저장할 수 있으며, 유저 [등급](../main-contents/rank.md) 승급을 통해 최대 <mark style="color:blue;">**30개**</mark>까지 늘릴 수 있습니다.
+기본적으로 <mark style="color:red;">**1개**</mark>의 홈을 저장할 수 있으며, 유저 [등급](../../main-contents/rank.md) 승급을 통해 최대 <mark style="color:blue;">**30개**</mark>까지 늘릴 수 있습니다.
 {% endhint %}
 
 {% hint style="warning" %}
