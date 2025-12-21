@@ -1,5 +1,19 @@
 ---
 description: 여러가지 활동을 통해 레벨을 올리고 스텟과 능력이 함께 성장하는 RPG형 시스템입니다.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # ⚔️ 모험 레벨
