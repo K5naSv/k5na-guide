@@ -223,7 +223,7 @@
 
 **피격 시 받는 피해를 무효화 하며, 무효화 하는 피해의 2배만큼 마나를 소모합니다.**
 
-* 괭이를 들고 <mark style="color:blue;">**우클릭**</mark> 후 작물 수확으로 발동합니다.
+* 방패를 들고 <mark style="color:blue;">**좌클릭**</mark> 하거나 피해를 받아 발동합니다.
 * 레벨에 따라 능력 발동이 <mark style="color:blue;">**2초**</mark>부터 최대 <mark style="color:blue;">**47초**</mark>까지 지속됩니다.
 * 쿨타임은 레벨에 따라 상이하며 최소는 <mark style="color:blue;">**125초**</mark>입니다.
 {% endtab %}
