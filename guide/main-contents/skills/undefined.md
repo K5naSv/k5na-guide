@@ -197,8 +197,9 @@
 > 사용 시 레벨에 따라 **마나를 20\~200 소모**하고,\
 > **레벨 6에 해금** 이후 **6레벨마다 강화**됩니다.
 
-검의 공격 속도가 증가합니다. 들고 <mark style="color:blue;">**우클릭**</mark> 후 작물 수확으로 발동합니다.
+검의 공격 속도가 증가합니다.
 
+* 검을들고 <mark style="color:blue;">**우클릭**</mark> 후 몬스터 공격으로 발동합니다.
 * 능력 발동 후 <mark style="color:blue;">**5초**</mark>부터 레벨에 따라 최대 <mark style="color:blue;">**65초**</mark>까지 지속됩니다.
 * 쿨타임은 레벨에 따라 상이하며 최소는 <mark style="color:blue;">**125초**</mark>입니다.
 {% endtab %}
