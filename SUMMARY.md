@@ -30,12 +30,11 @@
   * [🛗 엘레베이터](guide/features/elevator.md)
   * [🔄 블록 회전](guide/features/block-rotator.md)
   * [⌨️ 단축키](guide/features/undefined-2.md)
-  * [🔧 템수리](guide/features/undefined-3.md)
-  * [👍 편의성 조합법](guide/features/undefined-4.md)
-  * [⚒️ 도구 자동전환](guide/features/undefined-5.md)
-  * [🌾 농작물 보호](guide/features/undefined-6.md)
+  * [👍 편의성 조합법](guide/features/undefined-3.md)
+  * [⚒️ 도구 자동전환](guide/features/undefined-4.md)
+  * [🌾 농작물 보호](guide/features/undefined-5.md)
   * [🪶 플라이](guide/features/fly.md)
-  * [기타 명령어](guide/features/undefined-7.md)
+  * [기타 명령어](guide/features/undefined-6.md)
 * [✨ 주요 컨텐츠](guide/main-contents/README.md)
   * [🏠 부동산](guide/main-contents/residence/README.md)
     * [권한 및 플래그 설정](guide/main-contents/residence/undefined.md)
@@ -86,6 +85,7 @@
     * [빙고](coming/future-update/reward/k5na-pass.md)
   * [던전](coming/future-update/undefined/README.md)
     * [보상](coming/future-update/undefined/undefined.md)
+  * [🔧 템수리](coming/future-update/undefined-1.md)
 
 ## SUPPORT US
 
