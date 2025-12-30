@@ -1,10 +1,16 @@
-# © |   저작권 표기
+# ©️ |   저작권 표기
 
 ### 리소스팩
 
 
 
 ### BGM
+
+#### 튜토리얼&#x20;
+
+"Market on the Sea" Composed by Jonathan Shaw (www.jshaw.co.uk)\
+Available for use under the [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) license.\
+![](<.gitbook/assets/image (12).png>)
 
 #### 바테스 - 온천 마을&#x20;
 

@@ -1,3 +1,0 @@
-# 스텟
-
-<table><thead><tr><th width="159.370361328125">스텟</th><th>효과</th><th>레벨 강화</th></tr></thead><tbody><tr><td>힘</td><td>공격력 증가</td><td></td></tr><tr><td><strong>체력</strong></td><td>최대 체력 증가</td><td></td></tr><tr><td><strong>재생력</strong></td><td>체력·배고픔·마나 회복 관련 강화</td><td></td></tr><tr><td><strong>행운</strong></td><td>농사/벌목/채광/발굴 아이템 드랍 보너스</td><td></td></tr><tr><td><strong>지식</strong></td><td>바닐라 경험치 보너스<br>모루 비용 할인 <br>최대 마나 증가</td><td></td></tr><tr><td><strong>의지</strong></td><td>받는 피해 감소</td><td></td></tr><tr><td><strong>치명타 확률</strong></td><td>치명타 확률 증가</td><td></td></tr><tr><td><strong>치명타 피해</strong></td><td>치명타 피해 증가</td><td></td></tr><tr><td>속도</td><td>이동 속도 증가</td><td></td></tr></tbody></table>

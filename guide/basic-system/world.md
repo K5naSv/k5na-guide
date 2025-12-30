@@ -2,8 +2,6 @@
 
 {% tabs %}
 {% tab title="스폰" %}
-<figure><img src="../../.gitbook/assets/Snipaste_2023-07-09_03-45-23.png" alt="" width="375"><figcaption></figcaption></figure>
-
 #### 월드이동 방법
 
 * 아무 곳에서 **/스폰, /spawn** 명령어 입력
