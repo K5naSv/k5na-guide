@@ -143,7 +143,7 @@ description: v2026.01.16
 본 서버에서는 서버 최적화 및 렉 요소를 줄이기 위해 일부 엔티티를 제한합니다.\
 <mark style="color:blue;">**1청크**</mark>(x:16 X y:최하\~최상까지 X z:16) 당으로 제한하며 이를 위반할 시 처벌됩니다.
 
-<table><thead><tr><th width="270.66666666666663">구분</th><th>개수</th></tr></thead><tbody><tr><td>벌집</td><td>5개</td></tr><tr><td>주민</td><td>5명</td></tr><tr><td>벌, 눈사람, 철골렘</td><td>5마리</td></tr><tr><td>몬스터류</td><td>5마리</td></tr><tr><td>벌을 제외한 동물류 <br>(ex. 소, 닭, 돼지, 늑대... 등)</td><td>10마리</td></tr><tr><td>그림, 보트, 마인카트</td><td>10개</td></tr><tr><td>깔대기</td><td>20개</td></tr><tr><td>아이템액자</td><td>30개</td></tr><tr><td>갑옷거치대 (가구 포함)</td><td>30개</td></tr></tbody></table>
+<table><thead><tr><th width="270.66666666666663">구분</th><th>개수</th></tr></thead><tbody><tr><td>벌집</td><td>5개</td></tr><tr><td>주민</td><td>5명</td></tr><tr><td>벌, 눈사람, 철골렘</td><td>5마리</td></tr><tr><td>몬스터류</td><td>5마리</td></tr><tr><td>벌을 제외한 동물류 <br>(ex. 소, 닭, 돼지, 늑대... 등)</td><td>10마리</td></tr><tr><td>그림, 보트, 마인카트</td><td>10개</td></tr><tr><td>깔대기, 뾰족한 점적석(무한 용암)</td><td>20개</td></tr><tr><td>아이템액자</td><td>30개</td></tr><tr><td>갑옷거치대 (가구 포함)</td><td>30개</td></tr></tbody></table>
 
 ### ② 플레이 관련  제한
 
