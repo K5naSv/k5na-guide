@@ -11,7 +11,7 @@
 
 ### **직업 종류**
 
-메인 직업
+#### 메인 직업
 
 {% tabs %}
 {% tab title="🪏 디거" %}
@@ -87,10 +87,13 @@
 {% endtab %}
 {% endtabs %}
 
-서브 직업:&#x20;
 
-* 메인 직업과 달리 서브 직업은 돈 및 포인트 소득이 낮아 후반 주로직업 총 레벨을 올리는데 쓰이는 직업들입니다.&#x20;
-* 메인과 달리 직업상점이 없습니다.
+
+#### 서브 직업&#x20;
+
+* 메인 직업과 달리 서브 직업은 돈 및 포인트 소득이 낮아 \
+  주로 후반직업 총 레벨을 올리는데 쓰이는 직업들입니다.&#x20;
+* 메인과 달리 직업 상점이 없습니다.
 
 {% tabs %}
 {% tab title="🧙 연금술사" %}
@@ -138,7 +141,7 @@
 
 ### **직업 명령어**
 
-<table><thead><tr><th width="163">명령어</th><th width="516.3333333333333">설명</th></tr></thead><tbody><tr><td><strong>/jobs browse</strong><br><strong>/직업보기</strong></td><td>직업 메인 GUI를 엽니다.<br>아이콘 <strong><code>좌클릭</code></strong>: 직업 정보를 확인합니다.<br>아이콘 <strong><code>우클릭</code></strong>: 직업에 가입합니다.</td></tr><tr><td> <strong>/jobs join [직업]</strong><br><strong>/직업가입 [직업]</strong></td><td>해당 직업에 <mark style="color:green;"><strong>가입</strong></mark>합니다.</td></tr><tr><td><strong>/jobs leave</strong> <strong>[직업]</strong> <br><strong>/직업탈퇴 [직업]</strong></td><td>해당 직업에서 <mark style="color:red;"><strong>탈퇴</strong></mark>합니다.<br><mark style="color:red;">※ 탈퇴 시에 레벨과 경험치가 <strong>초기화</strong> 됩니다.</mark></td></tr><tr><td><strong>/jobs stats [직업]</strong><br><strong>/직업상태 [직업]</strong></td><td>해당 직업에 대한 <mark style="color:blue;"><strong>상태</strong></mark>를 확인합니다.</td></tr><tr><td><strong>/jobs top</strong> <strong>[직업]</strong><br><strong>/직업순위 [직업]</strong></td><td>해당 직업에 대한 <mark style="color:blue;"><strong>순위</strong></mark>를 확인합니다.</td></tr><tr><td><strong>/jobs limit</strong><br><strong>/소득</strong></td><td>직업 소득 제한을 확인합니다.<br>※ <mark style="color:blue;"><strong>1시간</strong></mark>마다 소득 제한이 <mark style="color:red;"><strong>초기화</strong></mark> 됩니다.</td></tr></tbody></table>
+<table><thead><tr><th width="163">명령어</th><th width="516.3333333333333">설명</th></tr></thead><tbody><tr><td><strong>/jobs points</strong></td><td>보유 중인 직업 <mark style="color:blue;"><strong>포인트</strong></mark>를 확인합니다.</td></tr><tr><td><strong>/jobs browse</strong><br><strong>/직업보기</strong></td><td>직업 메인 GUI를 엽니다.<br>아이콘 <strong><code>좌클릭</code></strong>: 직업 정보를 확인합니다.<br>아이콘 <strong><code>우클릭</code></strong>: 직업에 가입합니다.</td></tr><tr><td> <strong>/jobs join [직업]</strong><br><strong>/직업가입 [직업]</strong></td><td>해당 직업에 <mark style="color:green;"><strong>가입</strong></mark>합니다.</td></tr><tr><td><strong>/jobs leave</strong> <strong>[직업]</strong> <br><strong>/직업탈퇴 [직업]</strong></td><td>해당 직업에서 <mark style="color:red;"><strong>탈퇴</strong></mark>합니다.<br><mark style="color:red;">※ 탈퇴 시에 레벨과 경험치가 <strong>초기화</strong> 됩니다.</mark></td></tr><tr><td><strong>/jobs stats [직업]</strong><br><strong>/직업상태 [직업]</strong></td><td>해당 직업에 대한 <mark style="color:blue;"><strong>상태</strong></mark>를 확인합니다.</td></tr><tr><td><strong>/jobs top</strong> <strong>[직업]</strong><br><strong>/직업순위 [직업]</strong></td><td>해당 직업에 대한 <mark style="color:blue;"><strong>순위</strong></mark>를 확인합니다.</td></tr><tr><td><strong>/jobs limit</strong><br><strong>/소득</strong></td><td>직업 소득 제한을 확인합니다.<br>※ <mark style="color:blue;"><strong>1시간</strong></mark>마다 소득 제한이 <mark style="color:red;"><strong>초기화</strong></mark> 됩니다.</td></tr></tbody></table>
 
 
 

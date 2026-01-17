@@ -11,7 +11,7 @@
 아이템 등록 후 <mark style="color:blue;">**3일**</mark> 경과 시 아이템이 만료됩니다.
 {% endhint %}
 
-<table><thead><tr><th width="204">명령어</th><th width="572.3333333333333">설명</th></tr></thead><tbody><tr><td><strong>/ah, /거래소</strong></td><td>서버 거래소를 엽니다.</td></tr><tr><td><strong>/ah sell [금액] [갯수]</strong><br><strong>/거래등록 [금액] [갯수]</strong></td><td>손에 든 아이템을 거래소에 등록합니다.</td></tr><tr><td><strong>/ah history [page]</strong><br><strong>/거래소내역</strong></td><td>거래소에서 거래한 내역을 확인합니다.</td></tr><tr><td><strong>/ah claim</strong></td><td></td></tr><tr><td><strong>/ah expire</strong></td><td>만료된 품목을 확인합니다.</td></tr><tr><td><strong>/ah buying</strong></td><td>구매한 품목을 확인합니다.</td></tr><tr><td><strong>/ah items</strong></td><td>판매 중인 내 아이템을 확인합니다.</td></tr></tbody></table>
+<table><thead><tr><th width="204">명령어</th><th width="572.3333333333333">설명</th></tr></thead><tbody><tr><td><strong>/ah, /거래소</strong></td><td>서버 거래소를 엽니다.</td></tr><tr><td><strong>/ah sell [금액] [갯수]</strong><br><strong>/거래등록 [금액] [갯수]</strong></td><td>손에 든 아이템을 거래소에 등록합니다.</td></tr><tr><td><strong>/ah history [page]</strong><br><strong>/거래소내역</strong></td><td>거래소에서 거래한 내역을 확인합니다.</td></tr><tr><td><strong>/ah expire</strong></td><td>만료된 품목을 확인합니다.</td></tr><tr><td><strong>/ah buying</strong></td><td>구매한 품목을 확인합니다.</td></tr><tr><td><strong>/ah items</strong></td><td>판매 중인 내 아이템을 확인합니다.</td></tr></tbody></table>
 
 
 
