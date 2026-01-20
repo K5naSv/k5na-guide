@@ -7,6 +7,10 @@
 기본적으로는 <mark style="color:blue;">**2개**</mark>까지 가입이 가능하고, 추가 가입을 위해서는 유저 [**등급**](../rank.md)을 올려야 합니다.
 {% endhint %}
 
+{% hint style="danger" %}
+**직업 탈퇴 시에 레벨과 경험치가** <mark style="color:red;">**초기화**</mark> **됩니다.**
+{% endhint %}
+
 <figure><img src="../../../.gitbook/assets/jobs_image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **직업 종류**
