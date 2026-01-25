@@ -114,7 +114,7 @@
 {% tab title="일반" %}
 <img src="../../../../.gitbook/assets/normal.png" alt="" data-size="line">
 
-#### 판매 수익: <mark style="color:blue;">500원</mark>
+#### 판매 수익: <mark style="color:blue;">36원</mark>
 
 #### 물고기 목록
 
@@ -124,7 +124,7 @@
 {% tab title="희귀" %}
 <img src="../../../../.gitbook/assets/rare.png" alt="" data-size="line">
 
-#### 판매 수익:  <mark style="color:blue;">700원</mark>
+#### 판매 수익: <mark style="color:blue;">175원</mark>
 
 #### 물고기 목록
 
@@ -134,7 +134,7 @@
 {% tab title="영웅" %}
 <img src="../../../../.gitbook/assets/hero.png" alt="" data-size="line">
 
-#### 판매 수익:  <mark style="color:blue;">5,000원</mark>
+#### 판매 수익: <mark style="color:blue;">1,225원</mark>
 
 #### 물고기 목록
 
@@ -144,7 +144,7 @@
 {% tab title="전설" %}
 <img src="../../../../.gitbook/assets/legendary.png" alt="" data-size="line">
 
-#### 판매 수익: <mark style="color:blue;">15,000원</mark>
+#### 판매 수익: <mark style="color:blue;">3,675원</mark>
 
 #### 물고기 목록 (추가 예정)
 

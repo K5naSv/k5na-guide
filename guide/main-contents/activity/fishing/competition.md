@@ -8,11 +8,11 @@
 ### 낚시대회 시간
 
 <mark style="color:blue;">**스폰 서버**</mark>에서만 개최되며, <mark style="color:blue;">**10분**</mark> 동안 진행됩니다.\
-※ 서버 내 인원이 <mark style="color:blue;">**30명**</mark> <mark style="color:red;">**미만**</mark>일 때는 낚시 대회가 <mark style="color:red;">**취소**</mark>됩니다.
+※ 서버 내 인원이 <mark style="color:blue;">**10명**</mark> <mark style="color:red;">**미만**</mark>일 때는 낚시 대회가 <mark style="color:red;">**취소**</mark>됩니다.
 
+* 오전 1시 30분
 * 오후 3시 30분
 * 오후 8시 30분
-* 오전 1시 30분
 
 ### 낚시대회 종목
 
@@ -22,7 +22,8 @@
 
 ### 낚시대회 보상
 
-**1위**: 소지금 <mark style="color:blue;">**50,000원**</mark>
+**1위**: 소지금 <mark style="color:blue;">**20,000원**</mark>\
+&#x20;     \+ 마일리지 쿠폰
 
 **2위**: 소지금 <mark style="color:blue;">**10,000원**</mark>
 
