@@ -1,7 +1,13 @@
 # 📒 도감
 
 {% hint style="info" %}
-**도감을 채워서 여러 카테고리 및 진척도 보상을 획득해 보세요!**
+**도감을 완성하여 여러 카테고리 및 진척도 보상을 획득해 보세요!**
+{% endhint %}
+
+{% hint style="warning" %}
+<mark style="color:red;">**도감을 등록하기 전에 소중한 아이템은 반드시 안전한 곳에 보관해 주세요!**</mark>\
+왼손과 갑옷을 포함하여 인벤토리 내의 모든 아이템을 인식합니다.\
+일부 아이템은 마법 부여 여부와 상관없이 도감 등록이 가능합니다.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/codex_gui.png" alt=""><figcaption></figcaption></figure>
