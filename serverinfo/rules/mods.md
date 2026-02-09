@@ -1,7 +1,7 @@
 # 모드 사용
 
 {% hint style="danger" %}
-모드 사용으로 인한 손실은 복구 불가능
+모드 사용으로 인한 손실은 복구가 불가합니다.
 {% endhint %}
 
 ### 허용된 모드
@@ -11,15 +11,15 @@
 ### 주의가 필요한 모드
 
 {% hint style="warning" %}
-버그가 발생될 확률이 높거나 제제 가능성이 있습니다
+버그가 발생될 확률이 높거나 제재 가능성이 있습니다.
 {% endhint %}
 
-<table><thead><tr><th width="226.33331298828125">카테고리</th><th width="323.87322998046875">예시</th><th></th></tr></thead><tbody><tr><td><strong>인벤토리 조작 및 정렬</strong></td><td><p>Inventory Profiles Next<br>Elystra-chestplate swapper</p><p>Inventory lock</p><p>ToggleSneak</p><p>Tweakeroo</p></td><td>버그가 발생됨</td></tr><tr><td><strong>성능 최적화</strong></td><td>Entity Culling<br>Optifine</td><td></td></tr><tr><td><strong>키/마우스 입력 모드</strong></td><td><p>command macros</p><p>no more useless keys</p><p>Mouse Wheelie</p><p>Accurate Block Placement Reborn</p><p>Quick Turn</p></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="226.33331298828125">카테고리</th><th width="323.87322998046875">예시</th><th></th></tr></thead><tbody><tr><td><strong>인벤토리 조작 및 정렬</strong></td><td><p>Inventory Profiles Next<br>Elystra-chestplate swapper</p><p>Inventory lock</p><p>ToggleSneak</p><p>Tweakeroo</p></td><td>버그가 발생됨</td></tr><tr><td><strong>성능 최적화</strong></td><td>Entity Culling<br>Optifine</td><td></td></tr><tr><td><strong>키/마우스 입력 모드</strong></td><td><p>command macros</p><p>no more useless keys</p><p>Mouse Tweaks<br>Mouse Wheelie</p><p>Accurate Block Placement Reborn</p><p>Quick Turn</p></td><td></td></tr></tbody></table>
 
 ### 금지된 모드
 
 {% hint style="danger" %}
-사용 시 제제 대상입니다.
+사용 시 제재 대상입니다.
 {% endhint %}
 
 | 카테고리                          |                                                               |
